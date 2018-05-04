@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="9cf354c3-3382-4a7c-9d66-e9418b47c23f">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jaroslav Kaláb</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jaroslav Kaláb</Nazev>
+          <Ulice>Mozartova 21</Ulice>
+          <Misto>Prostějov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>79601</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jaroslav Kaláb</Nazev>
+          <Ulice>Mozartova 21</Ulice>
+          <Misto>Prostějov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>79601</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jaroslav Kaláb</Nazev>
+          <Ulice>Mozartova 21</Ulice>
+          <Misto>Prostějov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>79601</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>jarakalab@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>737526228</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="49f08792-b86d-4d5c-874b-8354325ab9a1"/>
+        <TelefonSpojeni1 ID="c19cd3cf-ddac-408b-94d0-d6dc9da995a3"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="09a79a3f-2073-4cc9-8f31-80c05bc0fb57"/>
+        <SeznamOsob>
+          <Osoba ID="09a79a3f-2073-4cc9-8f31-80c05bc0fb57">
+            <Nazev>Jaroslav Kaláb</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="5d13e9b0-c94d-49dd-8afc-fbb94d3adf2c">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jaroslav Svoboda</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jaroslav Svoboda</Nazev>
+          <Ulice>Písecká 904</Ulice>
+          <Misto>Strakonice 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38601</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jaroslav Svoboda</Nazev>
+          <Ulice>Písecká 904</Ulice>
+          <Misto>Strakonice 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38601</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jaroslav Svoboda</Nazev>
+          <Ulice>Šumavská 390</Ulice>
+          <Misto>Katovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38711</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>jarda.svobi@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>728016774</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="0c87148a-1cf8-4132-a5c4-e85ccbfc0401"/>
+        <TelefonSpojeni1 ID="1447847c-efd7-4652-ba6d-e4971a730918"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="faf5fa29-7d33-4ff6-beb2-92770ec2bafb"/>
+        <SeznamOsob>
+          <Osoba ID="faf5fa29-7d33-4ff6-beb2-92770ec2bafb">
+            <Nazev>Jaroslav Svoboda</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

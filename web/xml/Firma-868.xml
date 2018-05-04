@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="35c75c3c-de40-45bc-b9d5-b37796ee8ecf">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>nada zamecnikova</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>nada zamecnikova</Nazev>
+          <Ulice>Ořešín 1110</Ulice>
+          <Misto>Buštěhrad</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27343</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>nada zamecnikova</Nazev>
+          <Ulice>Ořešín 1110</Ulice>
+          <Misto>Buštěhrad</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27343</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>nada zamecnikova</Nazev>
+          <Ulice>Ořešín 1110</Ulice>
+          <Misto>Buštěhrad</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27343</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>nada.za@centrum.cz</Email>
+        <Telefon1>
+          <Cislo>604349741</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="e64a0f60-8d92-4f71-86a1-c646bbc1de70"/>
+        <TelefonSpojeni1 ID="60c19be6-2bd6-45d9-9e22-525df4ed30f9"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="398f08a9-b0d1-4b05-8337-d8047e0ef92c"/>
+        <SeznamOsob>
+          <Osoba ID="398f08a9-b0d1-4b05-8337-d8047e0ef92c">
+            <Nazev>nada zamecnikova</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

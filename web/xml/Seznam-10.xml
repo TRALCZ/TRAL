@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="2137d789-4468-4b08-8404-210538d8a234">
+      <Group ID="9d6656be-4875-4319-8ad5-113de557622e"/>
+      <Nazev>Interiérové dveře ALEJA 0/3 90 L olše LAK PZ p1 CZ</Nazev>
+      <Popis>Interiérové dveře ALEJA 0/3 90 L olše LAK PZ p1 CZ</Popis>
+      <Kod>0000013</Kod>
+      <CarovyKod>77777778</CarovyKod>
+      <VlastniHmotnost>25.00</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>120</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID>c926dbdc-3672-438c-8d18-4deaff65988d</Firma_ID>
+            <NazevFirmy>Dominika Vejmelková  </NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

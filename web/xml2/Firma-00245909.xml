@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="ab7e3994-a172-4174-9f18-ed8d067817bf">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>00245909</ICO>
+      <DIC>CZ00245909</DIC>
+      <Nazev>Městys Hořice na Šumavě</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Městys Hořice na Šumavě</Nazev>
+          <Ulice> 40</Ulice>
+          <Misto>Hořice na Šumavě</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38222</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Městys Hořice na Šumavě</Nazev>
+          <Ulice>Hořice na Šumavě 40</Ulice>
+          <Misto>Hořice na Šumavě</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38222</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Městys Hořice na Šumavě</Nazev>
+          <Ulice>Hořice na Šumavě 40</Ulice>
+          <Misto>Hořice na Šumavě</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38222</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>VladislavOtta@seznam.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>774277079</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="677223fa-3e7b-4d16-859d-2e8baa9c2a0b"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="b4d09243-fb1a-4464-98ab-4cc2e26cb690"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="30df92af-61d0-410b-9f6e-14c746b4b49d"/>
+        <SeznamOsob>
+          <Osoba ID="30df92af-61d0-410b-9f6e-14c746b4b49d">
+            <Nazev>Vladislav Otta</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

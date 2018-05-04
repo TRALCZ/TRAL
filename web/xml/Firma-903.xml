@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="38b5f8e1-fada-48db-8192-0032064cffed">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Petr Fančal</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Petr Fančal</Nazev>
+          <Ulice>Pálavské náměstí 4120/7</Ulice>
+          <Misto>Brno 28</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>62800</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Petr Fančal</Nazev>
+          <Ulice>Pálavské náměstí 4120/7</Ulice>
+          <Misto>Brno 28</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>62800</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Petr Fančal</Nazev>
+          <Ulice>Pálavské náměstí 4120/7</Ulice>
+          <Misto>Brno 28</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>62800</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>fancal@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>703144823</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="1c73d551-3243-48b3-9b21-b712bc448384"/>
+        <TelefonSpojeni1 ID="06156e9c-1d9c-4268-8466-d82fbb027462"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="71d598f0-8a6d-462d-832c-9544a33c6180"/>
+        <SeznamOsob>
+          <Osoba ID="71d598f0-8a6d-462d-832c-9544a33c6180">
+            <Nazev>Petr Fančal</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="099f0c33-1e91-4086-a3e1-971675df5a44">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Lenka Nožičková</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Lenka Nožičková</Nazev>
+          <Ulice>Hlemýždí 6</Ulice>
+          <Misto>Brniště</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>47129</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Lenka Nožičková</Nazev>
+          <Ulice>Hlemýždí 6</Ulice>
+          <Misto>Brniště</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>47129</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Lenka Nožičková</Nazev>
+          <Ulice>Hlemýždí 6</Ulice>
+          <Misto>Brniště</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>47129</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>l_nozickova@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>602284087</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="b9843e21-64dd-4097-a526-82ada9224832"/>
+        <TelefonSpojeni1 ID="c84f5833-75d8-46c9-b5af-fd08bdb3413d"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="0528d43c-8426-47eb-b446-bde4f36b3fc0"/>
+        <SeznamOsob>
+          <Osoba ID="0528d43c-8426-47eb-b446-bde4f36b3fc0">
+            <Nazev>Lenka Nožičková</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

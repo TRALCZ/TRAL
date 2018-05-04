@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="67070c07-9bc9-4028-9e3d-b237acf09666">
+      <Group ID=""/>
+      <Nazev>Interiérové dveře AZALKA 1 70 P olše LAK BB CZ</Nazev>
+      <Popis>Interiérové dveře AZALKA 1 70 P olše LAK BB CZ</Popis>
+      <Kod>0000002</Kod>
+      <CarovyKod></CarovyKod>
+      <VlastniHmotnost>0</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>0</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID></Firma_ID>
+            <NazevFirmy></NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

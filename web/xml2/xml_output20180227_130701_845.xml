@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <Factory_ZakazkaList>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="41ff74c6-703f-4758-b19c-2e70ebb9cea3">
+      <Group ID="369ff1b4-c742-49d6-b790-0ea257e1cb81" Kod="EŠ-M" />
+      <CisloZakazky>71703495</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="fa0f2359-21ac-4ac2-bb05-6d533fe30e76">
+        <Group ID="a8248087-4ac2-4403-ab71-86b299d6a81f" Kod="EŠ-M" />
+        <CelkovaCastka>12050.00</CelkovaCastka>
+        <PocetPolozek>7</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>to@royalcourthotel.cz</Email>
+          <Misto>Praha 2</Misto>
+          <Nazev>Royal Court s.r.o.</Nazev>
+          <PSC>12000</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 603 685</Telefon>
+          <Ulice>Wenzigova 1873/6</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="afebdfd6-3da0-4259-9636-586b0ed3d54d">
+      <Group ID="369ff1b4-c742-49d6-b790-0ea257e1cb81" Kod="EŠ-M" />
+      <CisloZakazky>71703862</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="50552ac7-cf36-4fb2-ac15-13db23552ecc">
+        <Group ID="a8248087-4ac2-4403-ab71-86b299d6a81f" Kod="EŠ-M" />
+        <CelkovaCastka>8223.00</CelkovaCastka>
+        <PocetPolozek>7</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>mejla.neubauer@gmail.com</Email>
+          <Misto>Praha 8</Misto>
+          <Nazev>Milan Neubauer</Nazev>
+          <PSC>18600</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>608 877 593</Telefon>
+          <Ulice>Sokolovská 46/67</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="e8660484-ee9f-4066-a027-343112f14205">
+      <Group ID="369ff1b4-c742-49d6-b790-0ea257e1cb81" Kod="EŠ-M" />
+      <CisloZakazky>71704352</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="5becd3e6-0e56-4108-81a6-4ff72b2d582b">
+        <Group ID="a8248087-4ac2-4403-ab71-86b299d6a81f" Kod="EŠ-M" />
+        <CelkovaCastka>9948.00</CelkovaCastka>
+        <PocetPolozek>8</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>dumusvr@raz-dva.cz</Email>
+          <Misto />
+          <Nazev>ing. Svoboda</Nazev>
+          <PSC />
+          <Stat />
+          <Telefon />
+          <Ulice />
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="d1f94922-5ebb-4d39-9c58-76e18229238c">
+      <Group ID="369ff1b4-c742-49d6-b790-0ea257e1cb81" Kod="EŠ-M" />
+      <CisloZakazky>71705346</CisloZakazky>
+      <PoznamkaKTerminum>raben 8.11.</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="068f45e4-df00-41ff-a809-fd6ae992823f">
+        <Group ID="a8248087-4ac2-4403-ab71-86b299d6a81f" Kod="EŠ-M" />
+        <CelkovaCastka>6449.00</CelkovaCastka>
+        <PocetPolozek>5</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>MishaLiLindemann@seznam.cz</Email>
+          <Misto>Police nad Metují</Misto>
+          <Nazev>Michaela Lojšková</Nazev>
+          <PSC>54954</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>606 615 460</Telefon>
+          <Ulice>Smetanova 381</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="f7c6ea11-5a52-4eb2-beac-94a92f09f026">
+      <Group ID="369ff1b4-c742-49d6-b790-0ea257e1cb81" Kod="EŠ-M" />
+      <CisloZakazky>71705744</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="fa62de15-95e1-49f4-a2d8-54a423c09ce1">
+        <Group ID="a8248087-4ac2-4403-ab71-86b299d6a81f" Kod="EŠ-M" />
+        <CelkovaCastka>470025.00</CelkovaCastka>
+        <PocetPolozek>23</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email />
+          <Misto />
+          <Nazev />
+          <PSC />
+          <Stat />
+          <Telefon />
+          <Ulice />
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="e52d0c33-52af-4168-8df3-1d43c99eca5d">
+      <Group ID="369ff1b4-c742-49d6-b790-0ea257e1cb81" Kod="EŠ-M" />
+      <CisloZakazky>71706481</CisloZakazky>
+      <PoznamkaKTerminum>vlastní doprava 22.12</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="343c362d-6ed4-4b39-9e94-a49ce6fffd4c">
+        <Group ID="a8248087-4ac2-4403-ab71-86b299d6a81f" Kod="EŠ-M" />
+        <CelkovaCastka>17908.00</CelkovaCastka>
+        <PocetPolozek>8</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>samkovapetra@seznam.cz</Email>
+          <Misto>Vrdy</Misto>
+          <Nazev>Petra Kůtová</Nazev>
+          <PSC>28571</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>724 077 071</Telefon>
+          <Ulice>Sluneční 343</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+  </Factory_ZakazkaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="a16f3b39-4bb0-4dc4-aa61-629e53f56ccb">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Pavel Novák</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Pavel Novák</Nazev>
+          <Ulice>Nad Kapličkou 18</Ulice>
+          <Misto>&amp;quot;Praha 10 - Strašnice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>100 00</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Pavel Novák</Nazev>
+          <Ulice>Nad Kapličkou 18</Ulice>
+          <Misto>&amp;quot;Praha 10 - Strašnice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>100 00</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Pavel Novák</Nazev>
+          <Ulice>Nad Kapličkou 18</Ulice>
+          <Misto>&amp;quot;Praha 10 - Strašnice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>100 00</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>pa-novak@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>606493288</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="823e32c0-1777-4579-bc9b-8c8cf0c73ecf"/>
+        <TelefonSpojeni1 ID="1b4db370-4064-4fd9-ba77-3e9ff9c6d5d3"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="dcb5cccb-c780-449d-81a8-ac03e609e191"/>
+        <SeznamOsob>
+          <Osoba ID="dcb5cccb-c780-449d-81a8-ac03e609e191">
+            <Nazev>Pavel Novák</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

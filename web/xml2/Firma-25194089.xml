@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="84514cf0-464c-42cb-8644-f085d766eea2">
+      <Group ID="ED191CCE-835E-4F3A-8121-8F050F6A5740"/>
+      <ICO>25194089</ICO>
+      <DIC>CZ25194089</DIC>
+      <Nazev>BARABA CZ, s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>BARABA CZ, s.r.o.</Nazev>
+          <Ulice> 118</Ulice>
+          <Misto>Loučovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>38276</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>BARABA CZ, s.r.o.</Nazev>
+          <Ulice> 118</Ulice>
+          <Misto>Loučovice</Misto>
+          <NazevStatu></NazevStatu>
+          <KodPsc>38276</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Prodejna časlav</Nazev>
+          <Ulice>ssds1</Ulice>
+          <Misto>časlav</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>10000</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>hlihilhjlů</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>773509997</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="36221904-d119-40a3-9ee1-deaf8e44f1cb"/>
+        <WWWSpojeni ID="1ff57779-294d-4686-bdc2-cd7763e86e86"/>
+        <TelefonSpojeni1 ID="22c04a1c-02fd-4b07-9c11-7475d63d44ce"/>
+        <TelefonSpojeni2 ID="5efd1df6-110a-496b-b2b6-22ffa50051c0"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="91fbc5e6-ea90-4883-abb9-77efb2b72039"/>
+        <SeznamOsob>
+          <Osoba ID="91fbc5e6-ea90-4883-abb9-77efb2b72039">
+            <Nazev></Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka>dfd</Poznamka>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="6e9c6e35-8c07-4f2d-98b3-72d68b465e09" Delete="1"/>
+        <FirmaAdresniKlic ID="a50f05ec-c8c3-44da-862e-fe9b125f1130" Delete="1"/>
+        <FirmaAdresniKlic ID="648a1604-34e1-45b8-9c69-39d96fa57f72" Delete="1"/>
+        <FirmaAdresniKlic ID="1b9f8e75-cf9d-47ec-a7d3-930f6f40c4bb">
+          <AdresniKlic_ID>BAF06343-1BCD-413A-BB5B-66976077B982</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+        <FirmaAdresniKlic ID="b55f81b6-7755-43fd-a37a-74a2a2b0b986">
+          <AdresniKlic_ID>823B82D2-B819-44DE-BED3-51D2F8D45D5F</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+        <FirmaAdresniKlic ID="0523fffe-2c02-44e4-9a20-3db3ac51c894">
+          <AdresniKlic_ID>28A472F3-A883-4B42-8B14-6D2AD9A25251</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="1fba83fd-efaa-473a-9748-ad4862d548f4" Delete="1"/>
+          <FirmaCenovaHladina ID="1a0cd2a2-768d-4350-b1a9-4037dcf057bf" Delete="1"/>
+          <FirmaCenovaHladina ID="213a9835-22fb-4fc7-93bb-6b694d1e42fc">
+            <CenovaHladina_ID>20ACA9F7-046F-4768-B9A5-1D4CDF19750B</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+          <FirmaCenovaHladina ID="0708933b-b84b-4730-a732-610509ea5492">
+            <CenovaHladina_ID>148C9844-963F-484A-8AE7-2D93719D5F58</CenovaHladina_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

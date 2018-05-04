@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="83b6d941-9270-42c8-a0f4-37c53e26e2cf">
+      <Group ID="6953c5b5-91f0-4943-8db7-062e9d0134f5"/>
+      <Nazev>Interiérové dveře ALEJA 0/3 90 L olše LAK BB CZ</Nazev>
+      <Popis>Interiérové dveře ALEJA 0/3 90 L olše LAK BB CZ</Popis>
+      <Kod>0000015</Kod>
+      <CarovyKod>1234567</CarovyKod>
+      <VlastniHmotnost>25.00</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>15</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID>0193ab29-39ac-4875-9386-6ff90e2b96e5</Firma_ID>
+            <NazevFirmy>Mercedes-Benz PRAHA s.r.o.</NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

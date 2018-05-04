@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="cec8b70d-46c1-4f36-9f59-0f77e9c3f15b">
+      <Group ID="12545136-8127-4720-8868-54C3512D6A14"/>
+      <ICO>26071011</ICO>
+      <DIC>CZ26071011</DIC>
+      <Nazev>Maso H+S spol. s r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Maso H+S spol. s r.o.</Nazev>
+          <Ulice> 24</Ulice>
+          <Misto>Božejov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39461</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Maso H+S spol. s r.o. F</Nazev>
+          <Ulice> 24</Ulice>
+          <Misto>Božejov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39461</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email>info@cpl.cz</Email>
+        <WWW>stv.cz</WWW>
+        <Telefon1>
+          <Cislo>1234567</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo>77777777</Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="408513e4-5ce8-4c8d-bfd9-24dffa7babc2"/>
+        <WWWSpojeni ID="a69fc03c-5c78-42ae-93fe-a00dc6b3a505"/>
+        <TelefonSpojeni1 ID="84fce940-f518-45fe-b1f3-7cd1ee81363f"/>
+        <TelefonSpojeni2 ID="a08d35ce-5d82-44af-8f1e-761c2be7d805"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="1ecea2ac-afda-4d56-993c-e417946d662a"/>
+        <SeznamOsob>
+          <Osoba ID="1ecea2ac-afda-4d56-993c-e417946d662a">
+            <Nazev>Yurgen Klinsmán</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka>Test</Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="0e898748-620e-4121-be81-0f1b58243780" Delete="1"/>
+        <FirmaAdresniKlic ID="5a2022df-7b3a-41fd-8974-b68c5378d7e5" Delete="1"/>
+        <FirmaAdresniKlic ID="46c2c346-f534-40ff-ae82-6de5d3f80b3b">
+          <AdresniKlic_ID>F467B71A-2834-496A-966C-DA8A832A210E</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+        <FirmaAdresniKlic ID="81e32406-0e69-459e-a6d5-110f772f7197">
+          <AdresniKlic_ID>BAF06343-1BCD-413A-BB5B-66976077B982</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="39e639e3-60d9-4472-bcad-cfcb71b83e09" Delete="1"/>
+          <FirmaCenovaHladina ID="8de78554-55e5-4b43-86e2-bdc643440e6f" Delete="1"/>
+          <FirmaCenovaHladina ID="ea39b540-3ac6-485e-b5ca-766db54212ca">
+            <CenovaHladina_ID>0F5FAA06-1F1C-49DC-B69E-0104D6A6E2EA</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+          <FirmaCenovaHladina ID="428d6605-82b5-42e5-b74f-f44bdbcfe9eb">
+            <CenovaHladina_ID>DA1195E8-D886-4B9C-9BDC-3347565CCBD9</CenovaHladina_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<S5Data>
+  <PolozkaCenikuList>
+    <PolozkaCeniku ID="089a0392-67d0-44d7-a843-d8879e4ac11a">
+      <Group ID="c5441c64-f194-470a-b0ff-188e2646afaa" Kod="0136UZ" />
+      <Artikl_ID>b50aeab3-a132-4110-91a0-449704ff7c35</Artikl_ID>
+      <BudouciCena>0.0000</BudouciCena>
+      <CanGetDataFromGroup>True</CanGetDataFromGroup>
+      <Cena>2500.0000</Cena>
+      <CenaDual>75315.00</CenaDual>
+      <Cenik_ID>76a4bee0-d4b3-45b1-87fb-3f7c6fd736de</Cenik_ID>
+      <DruhSazby EnumValueName="Zakladni">1</DruhSazby>
+      <IDokladPriceListItemsExported EnumValueName="NebylaExportovana">0</IDokladPriceListItemsExported>
+      <Kod>57961</Kod>
+      <MnozstevniSleva_ID />
+      <Nazev>DVEŘE TOLEDO 2/5 WENGE SOFT 70 L UZ CZ</Nazev>
+      <NepodlehatSleveDokladu>False</NepodlehatSleveDokladu>
+      <PovahaSazbyDPH_ID />
+      <Poznamka />
+      <SazbaDPHVstupProExport_ID />
+      <SazbaDPHVystupProExport_ID />
+      <Sklad_ID />
+      <Source_ID>b50aeab3-a132-4110-91a0-449704ff7c35</Source_ID>
+      <TypCeny EnumValueName="BezDane">0</TypCeny>
+      <VlastniDruhSazby>False</VlastniDruhSazby>
+      <VlastniKod>False</VlastniKod>
+      <VlastniNazev>False</VlastniNazev>
+      <VychoziCenik_ID />
+      <VychoziHladina_ID />
+      <VychoziSklad_ID />
+      <VypocetBudouciCeny EnumValueName="BudoucíCena">0</VypocetBudouciCeny>
+      <Zaokrouhleni_ID />
+      <ZmenaVMene>0.0000</ZmenaVMene>
+      <ZmenaVProcentech>0.00</ZmenaVProcentech>
+      <VychoziCena>
+        <Cena>0.0000</Cena>
+        <TypCeny EnumValueName="Neni">0</TypCeny>
+      </VychoziCena>
+      <VypocetCeny>
+        <VyseZmeny>0.00</VyseZmeny>
+        <ZpusobVypoctu EnumValueName="Nemenit">0</ZpusobVypoctu>
+      </VypocetCeny>
+      <Artikl ObjectName="Artikl" ObjectType="Object" ID="b50aeab3-a132-4110-91a0-449704ff7c35">
+        <Group ID="fe6075de-571c-484f-a0b4-776b453c7492" Kod="0136UZ" />
+      </Artikl>
+      <Cenik ObjectName="Cenik" ObjectType="Object" ID="76a4bee0-d4b3-45b1-87fb-3f7c6fd736de" />
+      <ImportovanaPoznamka ObjectName="CenikPolozkaDoplnekImport" ObjectType="Object" ID="6c0f6f5c-4155-4931-a304-6aab96dc9a11">
+        <Poznamka />
+      </ImportovanaPoznamka>
+      <PolozkyCenikuIDoklad ObjectName="IDokladPolozkaCeniku" ObjectType="List" />
+      <SazbaDPHVstupProExport ObjectName="SazbaDPH" ObjectType="Object" ID="b7d9bd88-bf7e-4c11-be49-2044879c871c" />
+      <SazbaDPHVystupProExport ObjectName="SazbaDPH" ObjectType="Object" ID="b7d9bd88-bf7e-4c11-be49-2044879c871c" />
+      <SeznamHladin ObjectName="PolozkaCenikuHladina" ObjectType="List">
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="401f6962-6118-466a-af8c-383640dc1897">
+          <AutoRow_ID>48380812</AutoRow_ID>
+          <Cena>2250.0000</Cena>
+          <CenovaHladina_ID>0f5faa06-1f1c-49dc-b69e-0104d6a6e2ea</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID />
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>10.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="0f5faa06-1f1c-49dc-b69e-0104d6a6e2ea" />
+        </PolozkaCenikuHladina>
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="00b0d647-231d-4140-9f52-6fdedf828366">
+          <AutoRow_ID>48380811</AutoRow_ID>
+          <Cena>2125.0000</Cena>
+          <CenovaHladina_ID>148c9844-963f-484a-8ae7-2d93719d5f58</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID />
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>15.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="148c9844-963f-484a-8ae7-2d93719d5f58" />
+        </PolozkaCenikuHladina>
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="9de5c1bd-ca4b-4ddd-ab8f-c9989c2e707e">
+          <AutoRow_ID>48380810</AutoRow_ID>
+          <Cena>2000.0000</Cena>
+          <CenovaHladina_ID>353da993-7a20-45de-b3da-beacbff9ff2c</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID />
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>20.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="353da993-7a20-45de-b3da-beacbff9ff2c" />
+        </PolozkaCenikuHladina>
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="7c9b1c42-0850-4547-86aa-3eef0fa65ff1">
+          <AutoRow_ID>48380809</AutoRow_ID>
+          <Cena>1875.0000</Cena>
+          <CenovaHladina_ID>74af50b1-bb54-488a-be3b-a890679158a6</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID />
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>25.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="74af50b1-bb54-488a-be3b-a890679158a6" />
+        </PolozkaCenikuHladina>
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="476820ba-e69d-4e69-95ac-bc8943a15343">
+          <AutoRow_ID>48380808</AutoRow_ID>
+          <Cena>1800.0000</Cena>
+          <CenovaHladina_ID>20aca9f7-046f-4768-b9a5-1d4cdf19750b</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID />
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>28.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="20aca9f7-046f-4768-b9a5-1d4cdf19750b" />
+        </PolozkaCenikuHladina>
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="583c69ac-02f3-4cc2-8c89-94b45989cb24">
+          <AutoRow_ID>48380807</AutoRow_ID>
+          <Cena>1750.0000</Cena>
+          <CenovaHladina_ID>bc19d86f-7255-4d67-9675-8601efb5a233</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID />
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>30.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="bc19d86f-7255-4d67-9675-8601efb5a233" />
+        </PolozkaCenikuHladina>
+        <PolozkaCenikuHladina ObjectName="PolozkaCenikuHladina" ObjectType="Object" ID="48f34c20-d033-457b-8280-2518120c441f">
+          <AutoRow_ID>48380806</AutoRow_ID>
+          <Cena>1700.0000</Cena>
+          <CenovaHladina_ID>54723f54-72c2-4080-bc99-4ec89aeaad89</CenovaHladina_ID>
+          <MnozstevniSleva_ID />
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <VychoziCenik_ID>76a4bee0-d4b3-45b1-87fb-3f7c6fd736de</VychoziCenik_ID>
+          <VychoziHladina_ID />
+          <VychoziSklad_ID />
+          <Zaokrouhleni_ID />
+          <VychoziCena>
+            <Cena>2500.0000</Cena>
+            <TypCeny EnumValueName="Cenikova">3</TypCeny>
+            <Cenik ObjectName="Cenik" ObjectType="Object" ID="76a4bee0-d4b3-45b1-87fb-3f7c6fd736de" />
+          </VychoziCena>
+          <VypocetCeny>
+            <VyseZmeny>32.00</VyseZmeny>
+            <ZpusobVypoctu EnumValueName="Prirazka">1</ZpusobVypoctu>
+          </VypocetCeny>
+          <CenovaHladina ObjectName="CenovaHladina" ObjectType="Object" ID="54723f54-72c2-4080-bc99-4ec89aeaad89" />
+        </PolozkaCenikuHladina>
+      </SeznamHladin>
+    </PolozkaCeniku>
+  </PolozkaCenikuList>
+</S5Data>

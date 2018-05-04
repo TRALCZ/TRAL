@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="8831e7dc-8368-4e11-b7ce-978347980b44">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>František Lekeš</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>František Lekeš</Nazev>
+          <Ulice>Dědina 116</Ulice>
+          <Misto>Korytná</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>68752</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>František Lekeš</Nazev>
+          <Ulice>Dědina 116</Ulice>
+          <Misto>Korytná</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>68752</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>František Lekeš</Nazev>
+          <Ulice>Dědina 116</Ulice>
+          <Misto>Korytná</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>68752</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>fera.lekes@email.cz</Email>
+        <Telefon1>
+          <Cislo>735793593</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="82e8e642-3035-442b-a8fe-c91ba941c5a4"/>
+        <TelefonSpojeni1 ID="2e7a9bcb-8a0b-4f34-8881-9e74c48ba06f"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="ec81c499-ea5c-4473-86ee-e50cc3eab25e"/>
+        <SeznamOsob>
+          <Osoba ID="ec81c499-ea5c-4473-86ee-e50cc3eab25e">
+            <Nazev>František Lekeš</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

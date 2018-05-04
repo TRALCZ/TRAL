@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="02378de9-10b4-4cb4-8a71-46418f522c96">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Michal Kovařík</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Michal Kovařík</Nazev>
+          <Ulice>Pražského povstání 2848</Ulice>
+          <Misto>Tábor 3</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39003</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Michal Kovařík</Nazev>
+          <Ulice>Pražského povstání 2848</Ulice>
+          <Misto>Tábor 3</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39003</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Kores</Nazev>
+          <Ulice>ČSLA 54</Ulice>
+          <Misto>Planá nad Lužnicí</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39111</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>kovarikmichal@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>602171648</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="9345ac39-628b-4f9c-ae01-42ce62c26675"/>
+        <TelefonSpojeni1 ID="a9a39b59-66b2-42b6-8f29-885ac6148df8"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="a10d4c8c-a09f-4ae8-ad5c-46962a8cd4f2"/>
+        <SeznamOsob>
+          <Osoba ID="a10d4c8c-a09f-4ae8-ad5c-46962a8cd4f2">
+            <Nazev>Michal Kovařík</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

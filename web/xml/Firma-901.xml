@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="04b8c2f0-13ed-482d-99e8-82ef79b4b497">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Renata Demeterová</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Renata Demeterová</Nazev>
+          <Ulice>Na Hlavní 82</Ulice>
+          <Misto>Praha 8</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>18200</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Renata Demeterová</Nazev>
+          <Ulice>Na Hlavní 82</Ulice>
+          <Misto>Praha 8</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>18200</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Renata Demeterová</Nazev>
+          <Ulice>Na Hlavní 82</Ulice>
+          <Misto>Praha 8</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>18200</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>renata.demeterova@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>604222744</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="ba900552-7ad3-4df0-97e3-5d2d1418efde"/>
+        <TelefonSpojeni1 ID="0b4257c3-659e-4782-984e-5805a4a064dc"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="1c252bb3-5a5f-48fa-b3a0-a0b41d5058d6"/>
+        <SeznamOsob>
+          <Osoba ID="1c252bb3-5a5f-48fa-b3a0-a0b41d5058d6">
+            <Nazev>Renata Demeterová</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

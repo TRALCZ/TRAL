@@ -1,0 +1,88 @@
+{
+    "name": "yiisoft/yii2-app-basic",
+    "description": "Yii 2 Basic Project Template",
+    "keywords": ["yii2", "framework", "basic", "project template"],
+    "homepage": "http://www.yiiframework.com/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "http://www.yiiframework.com/wiki/",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/yiisoft/yii2"
+    },
+	"minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.4",
+        "yiisoft/yii2-bootstrap": "^2.0",
+        "yiisoft/yii2-swiftmailer": "*",
+        "almasaeed2010/adminlte": "2.1.1",
+        "kartik-v/yii2-export": "@dev",
+        "kartik-v/yii2-tabs-x": "*",
+        "kartik-v/yii2-checkbox-x": "*",
+        "kartik-v/yii2-widget-activeform": "@dev",
+        "yiisoft/yii2-imagine": "^2.1",
+        "newerton/yii2-fancybox": "dev-master",
+        "kartik-v/dependent-dropdown": "dev-master",
+		"kartik-v/yii2-widget-depdrop": "@dev",
+        "kartik-v/yii2-widget-fileinput": "@dev",
+        "kartik-v/yii2-widget-alert": "*",
+        "kartik-v/yii2-dialog": "*",
+        "2amigos/yii2-date-picker-widget": "~1.0",
+        "kartik-v/yii2-context-menu": "*",
+        "liyunfang/yii2-contextmenu": "^1.0",
+        "kartik-v/yii2-widget-growl": "*",
+        "creocoder/yii2-nested-sets": "^0.9.0",
+        "paragonie/random_compat": "^2.0",
+		"kartik-v/yii2-mpdf": "*",
+        "yii2mod/yii2-google-maps-markers": "*",
+        "2amigos/yii2-google-maps-library": "*",
+        "thamtech/yii2-uuid": "^1.0",
+        "dungang/yii2-mysqli": "dev-master",
+        "skiptirengu/yii2-mssql-schema": "*",
+        "imangazaliev/didom": "^1.13"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "*",
+        "yiisoft/yii2-gii": "*",
+        "yiisoft/yii2-faker": "*",
+        "bmsrox/yii-adminlte-crud-template": "dev-master"
+    },
+    "config": {
+        
+		"fxp-asset": {
+            "installer-paths": {
+                "npm-asset-library": "web/assets/vendor",
+                "bower-asset-library": "web/assets/vendor"
+            },
+			"vcs-driver-options": {
+				"github-no-api": true
+			},
+			"pattern-skip-version": "(-build|-patch)"
+        },
+		"process-timeout": 1800
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "yii\\composer\\Installer::postCreateProject"
+        ]
+    },
+    "extra": {
+        "yii\\composer\\Installer::postCreateProject": {
+            "setPermission": [
+                {
+                    "runtime": "0777",
+                    "web/assets": "0777",
+                    "yii": "0755"
+                }
+            ],
+            "generateCookieValidationKey": [
+                "config/web.php"
+            ]
+        }
+
+    }
+}

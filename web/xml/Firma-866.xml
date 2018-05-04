@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="ae69a26c-7d90-4619-864b-76136294cd38">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Aleš Veselý</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Aleš Veselý</Nazev>
+          <Ulice>Vodní Újezd 64</Ulice>
+          <Misto>Dobřany</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33441</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Aleš Veselý</Nazev>
+          <Ulice>Vodní Újezd 64</Ulice>
+          <Misto>Dobřany</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33441</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Aleš Veselý</Nazev>
+          <Ulice>Vodní Újezd 64</Ulice>
+          <Misto>Dobřany</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33441</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>veselyale@email.cz</Email>
+        <Telefon1>
+          <Cislo>737843642</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="e060d2bb-7f93-4cfb-86e1-89edffceff1e"/>
+        <TelefonSpojeni1 ID="1320dc00-0555-418c-9725-a0a5c19b2503"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="9f42bda1-fc88-4962-be71-a9605d17cbc4"/>
+        <SeznamOsob>
+          <Osoba ID="9f42bda1-fc88-4962-be71-a9605d17cbc4">
+            <Nazev>Aleš Veselý</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

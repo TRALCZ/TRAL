@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="1d390c9e-fc86-4aef-afbf-a731c05acd23">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>06572189</ICO>
+      <DIC>CZ06572189</DIC>
+      <Nazev>Boutique Hotel Jalta a.s.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Boutique Hotel Jalta a.s.</Nazev>
+          <Ulice>Václavské náměstí 818/45</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>11000</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Boutique Hotel Jalta</Nazev>
+          <Ulice>Václavské náměstí 818/45</Ulice>
+          <Misto>Praha 1 - Nové Město</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>11000</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Boutique Hotel Jalta</Nazev>
+          <Ulice>Václavské náměstí 818/45</Ulice>
+          <Misto>Praha 1 - Nové Město</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>11000</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>michal.ilko@hoteljalta.com</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>602223314</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="93861c23-e37c-4281-9d5d-97789b4240a4"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="73931b49-bb42-4b7c-82f7-0ea29873b6bc"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="e5647be1-5f80-4300-814e-06db13ae61c2"/>
+        <SeznamOsob>
+          <Osoba ID="e5647be1-5f80-4300-814e-06db13ae61c2">
+            <Nazev>Michal Ilko</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ZasobaList>
+    <Zasoba ID="3858b454-e918-458e-946e-618b1ca2ced9">
+      <Artikl_ID>a94ac85f-ad7f-4e40-9475-25d896a8bea8</Artikl_ID>
+      <Nazev>Interiérové dveře ALEJA 0/3 80 P dub LAK BB CZ</Nazev>
+      <Kod>0000007</Kod>
+      <ZasobaPojistna>2</ZasobaPojistna>
+      <Sklad_ID ID="a8b21024-16a7-48f9-a684-0c3d0d417e22"/>
+    </Zasoba>
+  </ZasobaList>
+</S5Data>

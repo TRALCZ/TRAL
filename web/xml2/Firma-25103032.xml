@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="1d4035c2-1574-4f80-a800-4a14bf45b248">
+      <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+      <ICO>25103032</ICO>
+      <DIC>CZ25103032</DIC>
+      <Nazev>AGRO VŠECHLAPY s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>AGRO VŠECHLAPY s.r.o.</Nazev>
+          <Ulice>Petrohradská 389/20</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>10100</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>AGRO VŠECHLAPY s.r.o.</Nazev>
+          <Ulice>Petrohradská 389/20</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>10100</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email></Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo></Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="07aeb700-847e-4c9b-8049-14b1d4504f9b"/>
+        <WWWSpojeni ID="69790c33-d89f-481d-8704-0d3cad0eaa8c"/>
+        <TelefonSpojeni1 ID="6fce1140-a972-4c67-bae2-c3bfcc62b930"/>
+        <TelefonSpojeni2 ID="eff6afb3-2117-48dd-9a1a-fbaa0fe6579f"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="1444d62b-c160-41be-9bb9-6f19cb75605b"/>
+        <SeznamOsob>
+          <Osoba ID="1444d62b-c160-41be-9bb9-6f19cb75605b">
+            <Nazev></Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka>Test</Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="89236afb-6afd-4b14-be29-0fe344f38630" Delete="1"/>
+        <FirmaAdresniKlic ID="cf828587-e571-4447-8f80-4f59e0f40956" Delete="1"/>
+        <FirmaAdresniKlic ID="e8f58886-8c1b-4e07-a2ff-5741b681ab43">
+          <AdresniKlic_ID>F467B71A-2834-496A-966C-DA8A832A210E</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+        <FirmaAdresniKlic ID="e7b97093-df79-4435-81eb-e795538d9311">
+          <AdresniKlic_ID>D94C04BE-D5EE-4E6E-9EC5-0F9F31BE0F21</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="ce6ecdc8-61e8-4263-8c31-99b9357df970" Delete="1"/>
+          <FirmaCenovaHladina ID="2771cefd-7504-4b59-9808-116310c787ca" Delete="1"/>
+          <FirmaCenovaHladina ID="616a970a-ed4e-4ea3-9c33-d383c6fb8c88">
+            <CenovaHladina_ID>20ACA9F7-046F-4768-B9A5-1D4CDF19750B</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+          <FirmaCenovaHladina ID="c489c64c-0358-4c09-830b-d9509f1a4dd7">
+            <CenovaHladina_ID>DA1195E8-D886-4B9C-9BDC-3347565CCBD9</CenovaHladina_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

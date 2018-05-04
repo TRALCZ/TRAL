@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="8b5b4bd1-8c76-4f23-ae7e-be420db12cde">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Pavel Korn</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Pavel Korn</Nazev>
+          <Ulice>Podměstí 2160</Ulice>
+          <Misto>Žatec</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>43801</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Pavel Korn</Nazev>
+          <Ulice>Podměstí 2160</Ulice>
+          <Misto>Žatec</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>43801</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Pavel Korn</Nazev>
+          <Ulice>Podměstí 2160</Ulice>
+          <Misto>Žatec</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>43801</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>pavelkorn@centrum.cz</Email>
+        <Telefon1>
+          <Cislo>606278371</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="4802e1cb-34f7-45de-b701-55ab28b2acb2"/>
+        <TelefonSpojeni1 ID="fd016bd4-49b9-46eb-81d0-ba15013e4c6c"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="55eaa0bb-1324-4ca6-969b-81c9d6baba22"/>
+        <SeznamOsob>
+          <Osoba ID="55eaa0bb-1324-4ca6-969b-81c9d6baba22">
+            <Nazev>Pavel Korn</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

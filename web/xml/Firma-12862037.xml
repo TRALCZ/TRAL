@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="503a074f-94a7-4c43-997e-77e2987d2733">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>12862037</ICO>
+      <DIC>CZ5804120597</DIC>
+      <Nazev>Milan Junek</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Milan Junek</Nazev>
+          <Ulice>T. G. Masaryka 17</Ulice>
+          <Misto>Pernink</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>36236</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Milan Junek</Nazev>
+          <Ulice>T. G. Masaryka 17</Ulice>
+          <Misto>Pernink</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>36236</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Milan Junek</Nazev>
+          <Ulice>T. G. Masaryka 17</Ulice>
+          <Misto>Pernink</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>36236</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>junekpernink@volne.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>602415079</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="def75565-230a-495e-85ce-e8b2db5bbd77"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="fc2d0da5-fd98-4ab5-a923-edfc6a3e400e"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="dc454c60-6a04-46ec-8bee-e408a0479e7a"/>
+        <SeznamOsob>
+          <Osoba ID="dc454c60-6a04-46ec-8bee-e408a0479e7a">
+            <Nazev>Milan junek</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

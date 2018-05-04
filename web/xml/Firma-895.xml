@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="434b0e51-955c-4199-8f1d-00c7463ace71">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Radek Fiebiger</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Radek Fiebiger</Nazev>
+          <Ulice>Husova 762</Ulice>
+          <Misto>Lanškroun</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>56301</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Radek Fiebiger</Nazev>
+          <Ulice>Husova 762</Ulice>
+          <Misto>Lanškroun</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>56301</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Radek Fiebiger</Nazev>
+          <Ulice>Husova 762</Ulice>
+          <Misto>Lanškroun</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>56301</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>rfiebiger@komfi.cz</Email>
+        <Telefon1>
+          <Cislo>605189452</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="2256bf8e-2f5b-4604-b196-f167caa93c2e"/>
+        <TelefonSpojeni1 ID="7cfdf59b-07c5-498b-8ea5-312012ca951d"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="024b54f3-cdea-42fd-9a62-c5e945c02dc2"/>
+        <SeznamOsob>
+          <Osoba ID="024b54f3-cdea-42fd-9a62-c5e945c02dc2">
+            <Nazev>Radek Fiebiger</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

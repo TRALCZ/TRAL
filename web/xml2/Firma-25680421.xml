@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="dbe63eb4-287e-45a7-b650-178d3440376e">
+      <Group ID="12545136-8127-4720-8868-54C3512D6A14"/>
+      <ICO>25680421</ICO>
+      <DIC>CZ25680421</DIC>
+      <Nazev>NĚMCOVA SELSKÁ MLÉKÁRNA RADONICE, společnost s ručením omezeným (spol. s r.o.)</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>NĚMCOVA SELSKÁ MLÉKÁRNA RADONICE, společnost s ručením omezeným (spol. s r.o.)</Nazev>
+          <Ulice>Růžičkova 76</Ulice>
+          <Misto>Radonice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>25073</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>False</OdlisnaFakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email></Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo></Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="a9f467db-c768-4613-b4e0-e6a44ce9815e"/>
+        <WWWSpojeni ID="0785a16c-db91-478a-8412-083a17c4cce8"/>
+        <TelefonSpojeni1 ID="02ce15ce-36ca-4a6d-94fd-c1b6b2f24254"/>
+        <TelefonSpojeni2 ID="a6ed8984-610a-4658-97b6-d8e8a494137c"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="2ef3c3a5-ff96-454c-9ae6-7831dc456f49"/>
+        <SeznamOsob>
+          <Osoba ID="2ef3c3a5-ff96-454c-9ae6-7831dc456f49">
+            <Nazev></Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>15</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>True</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="2f4c1e5b-c82f-4a5e-bc4b-0cdc5b79e516" Delete="1"/>
+          <FirmaCenovaHladina ID="e2e5a69a-d3dd-45c2-8312-ae135dde3f9e" Delete="1"/>
+          <FirmaCenovaHladina ID="abde72d7-ef2f-430f-b85d-add5874ab8b1">
+            <CenovaHladina_ID>0F5FAA06-1F1C-49DC-B69E-0104D6A6E2EA</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+          <FirmaCenovaHladina ID="ebab6a0a-a8d1-4fd1-a015-153df02bc3ca">
+            <CenovaHladina_ID>DA1195E8-D886-4B9C-9BDC-3347565CCBD9</CenovaHladina_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+        <SeznamCeniku>
+          <FirmaCenik ID="e063b614-898e-40c4-8056-09539b90b609" Delete="1"/>
+          <FirmaCenik ID="4fbf6c70-a18c-4739-96bd-985d9ffe2bea">
+            <Cenik_ID>B011565A-7110-4024-B50D-C38C74927F0A</Cenik_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenik>
+          <FirmaCenik ID="c30cb2b8-1147-4c32-bfe0-04d0f1866057">
+            <Cenik_ID>B9222C58-6316-43C4-8B36-53E0AF167D4F</Cenik_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenik>
+        </SeznamCeniku>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

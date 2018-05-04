@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="d1db2616-6db5-4ca2-a05f-6b341d9642df">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Radek Kotalík</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Radek Kotalík</Nazev>
+          <Ulice>Č. Holase 1231</Ulice>
+          <Misto>Milevsko</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39901</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Radek Kotalík</Nazev>
+          <Ulice>Č. Holase 1231</Ulice>
+          <Misto>Milevsko</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39901</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Radek Kotalík</Nazev>
+          <Ulice>Kovářov 67</Ulice>
+          <Misto>Kovářov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39855</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>r.kotalik@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>608910810</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="be1cc0fa-c1ac-4220-8788-3d7b175cfbf7"/>
+        <TelefonSpojeni1 ID="7fbfec8c-9ab8-490d-9b34-5a536f78c732"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="8246980f-c182-4f1f-8a59-a38e6c00ae3c"/>
+        <SeznamOsob>
+          <Osoba ID="8246980f-c182-4f1f-8a59-a38e6c00ae3c">
+            <Nazev>Radek Kotalík</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

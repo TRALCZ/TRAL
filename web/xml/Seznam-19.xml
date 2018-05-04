@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="e7786b6b-2b61-42a8-af74-a0545101a349">
+      <Group ID="6953c5b5-91f0-4943-8db7-062e9d0134f5"/>
+      <Nazev>Interiérové dveře ALEJA 1/3 80 P ořech FINISH BB n3 CZ</Nazev>
+      <Popis>Interiérové dveře ALEJA 1/3 80 P ořech FINISH BB n3 CZ</Popis>
+      <Kod>0000020</Kod>
+      <CarovyKod>999</CarovyKod>
+      <VlastniHmotnost>12.00</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>15</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID>c926dbdc-3672-438c-8d18-4deaff65988d</Firma_ID>
+            <NazevFirmy>Dominika Vejmelková  </NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

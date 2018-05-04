@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="1c6e788c-0f66-4a97-b6f1-d7be9f743654">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Marcela-Anna Nedělková</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Marcela-Anna Nedělková</Nazev>
+          <Ulice>Jana Želivského 2385/11</Ulice>
+          <Misto>Praha 3</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>13000</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Marcela-Anna Nedělková</Nazev>
+          <Ulice>Jana Želivského 2385/11</Ulice>
+          <Misto>Praha 3</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>13000</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Marcela-Anna Nedělková</Nazev>
+          <Ulice>Jana Želivského 2385/11</Ulice>
+          <Misto>Praha 3</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>13000</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>marcela1036@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>776753106</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="8125a0fd-be2b-42ce-bf72-99f53f35e74d"/>
+        <TelefonSpojeni1 ID="d253a0d8-d65c-4fa4-b0d2-e4b2d17d3722"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="e80ec49a-0c8a-4959-adfd-55e7290104a6"/>
+        <SeznamOsob>
+          <Osoba ID="e80ec49a-0c8a-4959-adfd-55e7290104a6">
+            <Nazev>Marcela-Anna Nedělková</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

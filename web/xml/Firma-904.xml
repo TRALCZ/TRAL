@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="bdb6a3fb-7dc3-475e-b99f-5a37589295d4">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jindřich Novosád</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jindřich Novosád</Nazev>
+          <Ulice>Hálkova 979</Ulice>
+          <Misto>Humpolec</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39601</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jindřich Novosád</Nazev>
+          <Ulice>Hálkova 979</Ulice>
+          <Misto>Humpolec</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39601</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jindřich Novosád</Nazev>
+          <Ulice>Kejžlice p. č. 101/1</Ulice>
+          <Misto>Kejžlice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>394 52</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>jindrichnovosad@gmail.com</Email>
+        <Telefon1>
+          <Cislo>739171504</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="eb3e7b8a-013d-4218-b6dd-32fe4e99309c"/>
+        <TelefonSpojeni1 ID="474ee31d-d551-4a4b-8843-a0c72b6cb30a"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="8811cab5-3e3a-46e8-be32-3d583057ecf7"/>
+        <SeznamOsob>
+          <Osoba ID="8811cab5-3e3a-46e8-be32-3d583057ecf7">
+            <Nazev>Jindřich Novosád</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

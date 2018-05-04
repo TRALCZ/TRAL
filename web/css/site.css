@@ -1,0 +1,376 @@
+html,
+body {
+    height: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+.wrap > .container {
+    padding: 70px 15px 20px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+/* align the logout "link" (button in form) of the navbar */
+.nav li > form > button.logout {
+    padding: 15px;
+    border: none;
+}
+
+@media(max-width:767px) {
+    .nav li > form > button.logout {
+        display:block;
+        text-align: left;
+        width: 100%;
+        padding: 10px 15px;
+    }
+}
+
+.nav > li > form > button.logout:focus,
+.nav > li > form > button.logout:hover {
+    text-decoration: none;
+}
+
+.nav > li > form > button.logout:focus {
+    outline: none;
+}
+.summary
+{
+    text-align: right;
+}
+.modal-content
+{
+    text-align: left;
+	border-radius: 5px!important;
+}
+#modal2 > .modal-dialog > .modal-content
+{
+	min-height: 480px;
+}
+.modal-header
+{
+	background-color: #E08E0B;
+	color: #FFF;
+	border-radius: 5px 5px 0 0;
+}
+.select2-results__group 
+{
+    display: none !important;
+}
+.select2-selection__rendered
+{
+    margin-top: 0px !important;
+}
+.select2-selection__clear
+{
+    margin-top: -2px !important;
+}
+.nabidka-polozky
+{
+    /*border: 1px solid #D2D6DE;*/
+    min-height: 20px;
+    width: 100%;
+}
+.polozky-line {
+    position: relative;
+    margin-top: 5px;
+    width: 100%;
+    float: left;
+
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555555;
+    font-size: 14px;
+    outline: 0 none;
+    margin-bottom: 10px;
+}
+
+.polozky-under {
+    position: absolute;
+    width: 100%;
+    /*top: 30px;*/
+    border: 1px solid #ccc;
+}
+.selected
+{
+    background-color: #3c8dbc !important;
+    color: #fff;
+}
+#add_nabidka_polozka, #add_nabidka_polozka_c
+{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #3C8DBC;
+    margin-left: 10px;
+}
+.polozky 
+{
+    /*width: 96%;*/
+    float: left;
+    display: block;
+    /*margin-bottom: 10px;*/
+}
+.close-polozka
+{
+    float: right;
+    margin-bottom: 10px;
+    display: block;
+    /*width: 4%;*/
+    margin-top: 20px;
+}
+#nabidka_polozky
+{
+    float: left;
+    display: block;
+    margin-bottom: 10px;
+}
+.content2
+{
+    display: block !important;
+    float: left;
+    width: 100%;
+}
+.input_close
+{
+    color: #3c8dbc;
+    cursor: pointer;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+.modal-lg {
+    width: 90% !important;
+}
+
+.skin-blue .treeview-menu > li.active > a, .skin-blue .treeview-menu > li > a:hover {
+    background-color: #3C8DBC;
+    color: #fff;
+    margin-right: 5px;
+}
+#vytvorit-popis
+{
+    /*
+	color: #3C8DBC;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 15px;
+	*/
+}
+.btn-main
+{
+    /*height: 50px !important;*/
+    padding: 0 5px;
+}
+.btn-main-red
+{
+    background-color: #B4213B;
+    color: #fff !important;
+}
+.btn-main-red:hover
+{
+    background-color: #B4213B !important;
+    color: #fff !important;
+}
+
+
+
+/* Tabs */
+
+/*----- Tabs -----*/
+.tabs {
+    margin-top: 20px;
+    width:100%;
+    display:inline-block;
+}
+ 
+    /*----- Tab Links -----*/
+    /* Clearfix */
+    .tab-links:after {
+        /*display:block;*/
+        clear:both;
+        content:'';
+        margin-left: -20px;
+    }
+ 
+    .tab-links li {
+        margin:0px 5px;
+        float:left;
+        list-style:none;
+    }
+ 
+        .tab-links a {
+            padding:9px 15px;
+            display:inline-block;
+            border-radius:5px 5px 0px 0px;
+            background:#3C8DBC;
+            /*font-size:16px;*/
+            font-weight:600;
+            color:#fff;
+            transition:all linear 0.15s;
+        }
+ 
+        .tab-links a:hover {
+            background:#a7cce5;
+            color: #4c4c4c;
+            text-decoration:none;
+        }
+ 
+    li.active a, li.active a:hover {
+        background:#fff;
+        color:#4c4c4c;
+    }
+ 
+    /*----- Content of Tabs -----*/
+    .tab-content {
+        padding:15px;
+        border-radius:5px;
+        box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
+        background:#fff;
+    }
+ 
+        .tab {
+            display:none;
+        }
+ 
+        .tab.active {
+            display:block;
+        }
+        
+        
+.modal-btn-log
+{
+    color: #337ab7;
+    cursor: pointer;
+}
+
+.btn-app
+{
+	height: auto!important;
+	min-width: 160px!important;
+	min-height: 95px!important;
+}
+
+/* PDF */
+.header_div
+{
+	float: left; 
+	width: 20%; height: 200px; 
+	border: 1px solid red;
+}
+
+.btn-100
+{
+	min-width: 100px;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 5px !important;
+}
+
+.show_view
+{
+	z-index: 10000!important;
+}
+
+.table tbody tr:hover
+{
+	background: #e1efe9; /* Цвет фона при наведении */
+	/*color: #fff; // Цвет текста при наведении */
+}
+.dropdown-menu
+{
+	border: 1px solid #3c8dbc!important;
+}
+
+.dropdown-menu > li > a {
+	padding: 3px 10px!important;
+}
+
+.header-link a:hover
+{
+	color: #000!important;
+}
+
+hr.hrline { 
+	border-top: 1px solid #ddd;
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="c60f97e3-dfec-40ac-a592-9eca73c486eb">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>03459276</ICO>
+      <DIC>CZ03459276</DIC>
+      <Nazev>REGIUS realitní kancelář s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>REGIUS realitní kancelář s.r.o.</Nazev>
+          <Ulice>Štefánikova 809/1</Ulice>
+          <Misto>Nový Jičín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74101</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Regius Realitní kancelář s.r.o.</Nazev>
+          <Ulice>Štefanikova 809/1</Ulice>
+          <Misto>Nový Jičín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74101</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Regius Realitní kancelář s.r.o.</Nazev>
+          <Ulice>Na Lani 216</Ulice>
+          <Misto>Nový Jičín - Loučka </Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74101</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>vaclav.jaros@regiusholding.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>734327890</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="e51fd086-709f-490f-b4fa-cecc4ebdc823"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="66c81bc6-1444-4010-adc3-516a764843d3"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="9e1f9b30-a81d-4d36-a385-7c8fe16e0983"/>
+        <SeznamOsob>
+          <Osoba ID="9e1f9b30-a81d-4d36-a385-7c8fe16e0983">
+            <Nazev>Václav Jaroš</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

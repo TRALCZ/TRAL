@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="f14a49a0-7701-4e81-85d6-8cbd8d1fd302">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Adam Spurný</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Adam Spurný</Nazev>
+          <Ulice>Liblín 50</Ulice>
+          <Misto>Kralovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33141</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Adam Spurný</Nazev>
+          <Ulice>Liblín 50</Ulice>
+          <Misto>Kralovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33141</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Adam Spurný</Nazev>
+          <Ulice>Liblín 50</Ulice>
+          <Misto>Kralovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33141</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>farma.spurny@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>720109803</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="9a247a39-474d-41a3-8cde-a71e5a6611ee"/>
+        <TelefonSpojeni1 ID="dcb4083e-dead-48eb-aa86-c8504f1c2c82"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="1eb798bf-2626-4f9c-80b1-3687bef0dcff"/>
+        <SeznamOsob>
+          <Osoba ID="1eb798bf-2626-4f9c-80b1-3687bef0dcff">
+            <Nazev>Adam Spurný</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

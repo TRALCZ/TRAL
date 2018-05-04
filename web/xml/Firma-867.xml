@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="a072cd23-40b1-4737-bb8e-ad04ae7c3085">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>68822723</ICO>
+      <Nazev>Tomáš Drnec</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Tomáš Drnec</Nazev>
+          <Ulice>Tylova 530/42</Ulice>
+          <Misto>Plzeň 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>30100</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Tomáš Drnec</Nazev>
+          <Ulice>Tylova 530/42</Ulice>
+          <Misto>Plzeň 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>30100</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Tomáš Drnec</Nazev>
+          <Ulice>Tylova 530/42</Ulice>
+          <Misto>Plzeň 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>30100</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>DrnecTomas@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>602444148</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="b991da80-8527-4cbf-bd8b-322952da59f4"/>
+        <TelefonSpojeni1 ID="5a077b43-d491-491a-8100-748db636ed7c"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="cf477f7f-d5ab-47b3-b237-b614583a80c1"/>
+        <SeznamOsob>
+          <Osoba ID="cf477f7f-d5ab-47b3-b237-b614583a80c1">
+            <Nazev>Tomáš Drnec</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

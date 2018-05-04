@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="f5a6577c-a522-4b10-89b5-15bc3302e850">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jaroslav Šafránek</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jaroslav Šafránek</Nazev>
+          <Ulice>Kamenec u Poličky 13</Ulice>
+          <Misto>Kamenec u Poličky</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>57201</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jaroslav Šafránek</Nazev>
+          <Ulice>Kamenec u Poličky 13</Ulice>
+          <Misto>Kamenec u Poličky</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>57201</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jaroslav Šafránek</Nazev>
+          <Ulice>Kamenec u Poličky 13</Ulice>
+          <Misto>Kamenec u Poličky</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>57201</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>jaroslav.safranek@enterpolicka.cz</Email>
+        <Telefon1>
+          <Cislo>777750077</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="2fc7e27f-bf7b-488b-b0dc-f7c8864374de"/>
+        <TelefonSpojeni1 ID="6cfee229-a71c-4373-9141-09ec30a2df21"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="9020a1cf-a222-4994-b5d4-3eee48a6dde3"/>
+        <SeznamOsob>
+          <Osoba ID="9020a1cf-a222-4994-b5d4-3eee48a6dde3">
+            <Nazev>Jaroslav Šafránek</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

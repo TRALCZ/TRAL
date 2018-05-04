@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="0193ab29-39ac-4875-9386-6ff90e2b96e5">
+      <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+      <ICO>05556040</ICO>
+      <DIC>CZ05556040</DIC>
+      <Nazev>Mercedes-Benz PRAHA s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Mercedes-Benz PRAHA s.r.o.</Nazev>
+          <Ulice>Daimlerova 2296/2</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>14900</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Mercedes-Benz PRAHA s.r.o.</Nazev>
+          <Ulice>Daimlerova 2296/2</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>14900</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email>info@cpl.cz</Email>
+        <WWW>stv.cz</WWW>
+        <Telefon1>
+          <Cislo>123456789</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo>5555555555</Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="1600f0ca-a531-48e6-8601-02ddee60985a"/>
+        <WWWSpojeni ID="28851d07-21f8-48da-9868-b78c3bac1455"/>
+        <TelefonSpojeni1 ID="0ad44c04-92e5-4747-9484-07801136a995"/>
+        <TelefonSpojeni2 ID="4e57be83-c14e-42f8-b0eb-9625ab60014a"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="dfe05849-1174-45f2-8570-c66264579e78"/>
+        <SeznamOsob>
+          <Osoba ID="dfe05849-1174-45f2-8570-c66264579e78">
+            <Nazev>Vasya</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>15</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>True</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="4b2d4bfc-6fb8-4ddb-8a7f-6a7f69fb857f">
+          <AdresniKlic_ID>F467B71A-2834-496A-966C-DA8A832A210E</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+        <FirmaAdresniKlic ID="5ec9b055-ae39-4ab5-a515-32182a1a3eaf">
+          <AdresniKlic_ID>28A472F3-A883-4B42-8B14-6D2AD9A25251</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="2a0a7d16-1a7d-40f4-b55b-8b6f4048ab8f">
+            <CenovaHladina_ID>0F5FAA06-1F1C-49DC-B69E-0104D6A6E2EA</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

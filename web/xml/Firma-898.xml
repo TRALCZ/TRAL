@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="d1ed9fdf-c4ac-4c67-b694-c2896559713e">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jakub Fedor</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jakub Fedor</Nazev>
+          <Ulice>Vysne Kamence 926</Ulice>
+          <Misto>Terchova</Misto>
+          <NazevStatu>Slovensko</NazevStatu>
+          <KodPsc>01306</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jakub Fedor</Nazev>
+          <Ulice>Vysne Kamence 926</Ulice>
+          <Misto>Terchova</Misto>
+          <NazevStatu>Slovensko</NazevStatu>
+          <KodPsc>01306</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jakub Fedor</Nazev>
+          <Ulice>Vysne Kamence 926</Ulice>
+          <Misto>Terchova</Misto>
+          <NazevStatu>Slovensko</NazevStatu>
+          <KodPsc>01306</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>j.fedor7893@gmail.com</Email>
+        <Telefon1>
+          <Cislo>0918391903</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="afd0a216-7b45-4101-82af-bdde7ed36699"/>
+        <TelefonSpojeni1 ID="05ce829c-65b2-4b68-964f-05ce038a8fb3"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="c0c07777-2318-40a8-9a7f-5691ddca2bb2"/>
+        <SeznamOsob>
+          <Osoba ID="c0c07777-2318-40a8-9a7f-5691ddca2bb2">
+            <Nazev>Jakub Fedor</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <NabidkaVydanaList>
+    <NabidkaVydana ID="5a1785bd-e52c-46ba-be15-8691a491a7c1">
+      <CelkovaCastka>6088.86</CelkovaCastka>
+      <CelkovaCastkaCM>6088.86</CelkovaCastkaCM>
+      <CisloDokladu>N-8</CisloDokladu>
+      <Nazev>Test 999</Nazev>
+      <Adresa>
+        <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+          <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+        </Firma>
+        <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+        <KontaktniOsobaNazev>Ivanov Ivan Ivanyc</KontaktniOsobaNazev>
+        <Misto>Brno</Misto>
+        <Ulice>Žebětínek 134/10</Ulice>
+        <PSC>62100</PSC>
+        <Stat>Česká republika</Stat>
+      </Adresa>
+      <AdresaKoncovehoPrijemce>
+        <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+          <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+        </Firma>
+        <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+        <KontaktniOsobaNazev>Ivanov Ivan Ivanyc</KontaktniOsobaNazev>
+        <Misto>Brno</Misto>
+        <Ulice>Žebětínek 134/10</Ulice>
+        <PSC>62100</PSC>
+        <Stat>Česká republika</Stat>
+      </AdresaKoncovehoPrijemce>
+      <AdresaPrijemceFaktury>
+        <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+          <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+        </Firma>
+        <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+        <KontaktniOsobaNazev>Ivanov Ivan Ivanyc</KontaktniOsobaNazev>
+        <Misto>Brno</Misto>
+        <Ulice>Žebětínek 134/10</Ulice>
+        <PSC>62100</PSC>
+        <Stat>Česká republika</Stat>
+      </AdresaPrijemceFaktury>
+      <Suma>
+        <Celkem>6088.86</Celkem>
+        <CelkemCM>6088.86</CelkemCM>
+        <Dan>890.46</Dan>
+        <DanCM>890.46</DanCM>
+        <Zaklad>5198.40</Zaklad>
+        <ZakladCM>5198.40</ZakladCM>
+      </Suma>
+      <Polozky ObjectType="List">
+        <PolozkaNabidkyVydane ID="21b013db-47bb-48fd-8a62-40f1bc906e04">
+          <DokladObjectName>NabidkaVydana</DokladObjectName>
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <TypObsahu EnumValueName="BezObsahu">0</TypObsahu>
+          <TypPolozky EnumValueName="Neurcena">0</TypPolozky>
+          <Nazev>Test test test 5555555555</Nazev>
+          <CelkovaCena>1845.00</CelkovaCena>
+          <CelkovaCenaCM>1845.00</CelkovaCenaCM>
+          <CelkovaCenaBezSlevy>1845.00</CelkovaCenaBezSlevy>
+          <CelkovaCenaBezSlevyCM>1845.00</CelkovaCenaBezSlevyCM>
+          <JednCena>1845.00</JednCena>
+          <JednCenaCM>1845.00</JednCenaCM>
+          <Jednotka>ks</Jednotka>
+          <JednotkovaCenaBezSlevy>1845.00</JednotkovaCenaBezSlevy>
+          <JednotkovaCenaBezSlevyCM>1845.00</JednotkovaCenaBezSlevyCM>
+          <Mnozstvi>1</Mnozstvi>
+          <DPH>
+            <Celkem>2232.45</Celkem>
+            <CelkemCM>2232.45</CelkemCM>
+            <Dan>387.45</Dan>
+            <DanCM>387.45</DanCM>
+            <Sazba>21</Sazba>
+            <Zaklad>1845.00</Zaklad>
+            <ZakladCM>1845.00</ZakladCM>
+          </DPH>
+        </PolozkaNabidkyVydane>
+        <PolozkaNabidkyVydane ID="12b4148c-a1d2-4534-947c-4cd6df47d287">
+          <DokladObjectName>NabidkaVydana</DokladObjectName>
+          <TypCeny EnumValueName="BezDane">0</TypCeny>
+          <TypObsahu EnumValueName="BezObsahu">0</TypObsahu>
+          <TypPolozky EnumValueName="Neurcena">0</TypPolozky>
+          <Nazev>Test test test 11111111111111</Nazev>
+          <CelkovaCena>3353.40</CelkovaCena>
+          <CelkovaCenaCM>3353.40</CelkovaCenaCM>
+          <CelkovaCenaBezSlevy>3726.00</CelkovaCenaBezSlevy>
+          <CelkovaCenaBezSlevyCM>3726.00</CelkovaCenaBezSlevyCM>
+          <JednCena>1676.70</JednCena>
+          <JednCenaCM>1676.70</JednCenaCM>
+          <Jednotka>ks</Jednotka>
+          <JednotkovaCenaBezSlevy>1863.00</JednotkovaCenaBezSlevy>
+          <JednotkovaCenaBezSlevyCM>1863.00</JednotkovaCenaBezSlevyCM>
+          <Mnozstvi>2</Mnozstvi>
+          <DPH>
+            <Celkem>3856.41</Celkem>
+            <CelkemCM>3856.41</CelkemCM>
+            <Dan>503.01</Dan>
+            <DanCM>503.01</DanCM>
+            <Sazba>15</Sazba>
+            <Zaklad>3353.40</Zaklad>
+            <ZakladCM>3353.40</ZakladCM>
+          </DPH>
+        </PolozkaNabidkyVydane>
+      </Polozky>
+      <DPH0>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>0.00</Sazba>
+        <Zaklad>0.00</Zaklad>
+        <ZakladCM>0.00</ZakladCM>
+      </DPH0>
+      <DPH1>
+        <Celkem>3856.41</Celkem>
+        <CelkemCM>3856.41</CelkemCM>
+        <Dan>503.01</Dan>
+        <DanCM>503.01</DanCM>
+        <Sazba>15.00</Sazba>
+        <Zaklad>3353.40</Zaklad>
+        <ZakladCM>3353.40</ZakladCM>
+      </DPH1>
+      <DPH2>
+        <Celkem>2232.45</Celkem>
+        <CelkemCM>2232.45</CelkemCM>
+        <Dan>387.45</Dan>
+        <DanCM>387.45</DanCM>
+        <Sazba>21.00</Sazba>
+        <Zaklad>1845.00</Zaklad>
+        <ZakladCM>1845.00</ZakladCM>
+      </DPH2>
+    </NabidkaVydana>
+  </NabidkaVydanaList>
+</S5Data>

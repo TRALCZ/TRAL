@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="5e2c57b1-9b04-485f-b4a5-bd22a943b29b">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>04964942</ICO>
+      <DIC>CZ04964942</DIC>
+      <Nazev>SpS Doksy, s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>SpS Doksy, s.r.o.</Nazev>
+          <Ulice>Valdštejnská 997</Ulice>
+          <Misto>Doksy</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>47201</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>SpS Doksy,s.r.o.</Nazev>
+          <Ulice>Valdštejnská 997</Ulice>
+          <Misto>Doksy</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>47201</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>SpS Doksy,s.r.o.</Nazev>
+          <Ulice>Valdštejnská 997</Ulice>
+          <Misto>Doksy</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>47201</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>ales.stach@volny.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>723807344</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="ab504ddd-1c61-4186-929f-a8265c6a211d"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="4c5f90a9-10d6-4743-be14-1f8a9addd139"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="d1f172d5-325f-4968-a334-7c92af77d3b7"/>
+        <SeznamOsob>
+          <Osoba ID="d1f172d5-325f-4968-a334-7c92af77d3b7">
+            <Nazev>Aleš Stach</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

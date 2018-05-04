@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="3ccfe4c1-e3ea-4b29-8e2b-723d5761c425">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Petr Šibl</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Petr Šibl</Nazev>
+          <Ulice>30. Dubna 1675/17</Ulice>
+          <Misto>Ostrava</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>70200</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Petr Šibl</Nazev>
+          <Ulice>30. Dubna 1675/17</Ulice>
+          <Misto>Ostrava</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>70200</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Petr Šibl</Nazev>
+          <Ulice>30. Dubna 1675/17</Ulice>
+          <Misto>Ostrava</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>70200</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>los.pedros@email.cz</Email>
+        <Telefon1>
+          <Cislo>604408246</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="cf322a90-15fc-45ef-bccc-4484f64927d8"/>
+        <TelefonSpojeni1 ID="5fe20d70-8216-48f7-91a0-940ee7b4035a"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="34ffc8f2-6027-4e38-8c2b-b63409cc69ad"/>
+        <SeznamOsob>
+          <Osoba ID="34ffc8f2-6027-4e38-8c2b-b63409cc69ad">
+            <Nazev>Petr Šibl</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

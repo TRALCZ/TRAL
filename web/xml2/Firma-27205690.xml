@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="ef1ad713-61c1-4ed6-81da-753ad762bd17">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>27205690</ICO>
+      <DIC>CZ27205690</DIC>
+      <Nazev>BARMMONT s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>BARMMONT s.r.o.</Nazev>
+          <Ulice> 34</Ulice>
+          <Misto>Slaný</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27401</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>barmmont s.r.o.</Nazev>
+          <Ulice>č.p. 34</Ulice>
+          <Misto>Slaný 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27401</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>barmmont s.r.o.</Nazev>
+          <Ulice>č.p.34</Ulice>
+          <Misto>Slaný 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27401</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>barochmichael@seznam.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>777792992</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="c917730d-f63f-46dd-b11f-317ea293c064"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="3e030c38-3534-4e67-abe7-5fd7112ff3e6"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="24a886c7-d2be-4e84-8a73-509b9eab8447"/>
+        <SeznamOsob>
+          <Osoba ID="24a886c7-d2be-4e84-8a73-509b9eab8447">
+            <Nazev>Michael Baroch</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

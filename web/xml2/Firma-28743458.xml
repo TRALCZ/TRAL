@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="775b6a21-bd0d-4310-8b02-4b69af62a78b">
+      <Group ID="05ED551D-A935-4CE1-8E13-F83A1AB87FD6"/>
+      <ICO>28743458</ICO>
+      <DIC>CZ28743458</DIC>
+      <Nazev>B3 Group s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>B3 Group s.r.o.</Nazev>
+          <Ulice>Zdeňka Fibicha 2548/5</Ulice>
+          <Misto>Most</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>43401</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>False</OdlisnaFakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email></Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>999999999</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="aaf94159-7594-472d-8567-0b9e0acbaab1"/>
+        <WWWSpojeni ID="7e3b5567-b132-40c1-93d9-636ef347a4f9"/>
+        <TelefonSpojeni1 ID="2f79e334-bfb6-4e8c-bfe5-5b1503ada0b5"/>
+        <TelefonSpojeni2 ID="6306765a-d0ab-4c16-b0d7-32ae87c16bc3"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="1e678ae6-9b2d-4c46-8f4e-06a46ca02e54"/>
+        <SeznamOsob>
+          <Osoba ID="1e678ae6-9b2d-4c46-8f4e-06a46ca02e54">
+            <Nazev></Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>15</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>True</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

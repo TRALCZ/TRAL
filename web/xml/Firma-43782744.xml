@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="76f0bae4-7d82-4306-93bd-b4ef2c32b75b">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>43782744</ICO>
+      <DIC>CZ6508301690</DIC>
+      <Nazev>Vladislav Tesárek</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Vladislav Tesárek</Nazev>
+          <Ulice>Pařížská 2509</Ulice>
+          <Misto>Kladno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27201</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Vladislav Tesárek</Nazev>
+          <Ulice>Dlouhá 33</Ulice>
+          <Misto>Kladno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27201</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Vladislav Tesárek</Nazev>
+          <Ulice>Dlouhá 33</Ulice>
+          <Misto>Kladno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>27201</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>tesarek@tesarek.net</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>777333592</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="5c8d2922-b453-4b9b-a745-674fef91ac65"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="93f3f6e6-672d-4f96-add0-4e21c174d4c9"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="c15ae5f0-1a55-4645-9297-d300da24de99"/>
+        <SeznamOsob>
+          <Osoba ID="c15ae5f0-1a55-4645-9297-d300da24de99">
+            <Nazev>Vladislav Tesárek</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

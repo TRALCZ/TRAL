@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="c323d65b-61e2-4c6e-9d67-c9e927aba7a3">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Tomáš Klepal</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Tomáš Klepal</Nazev>
+          <Ulice>Dělnická 789</Ulice>
+          <Misto>Kolín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>28002</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Tomáš Klepal</Nazev>
+          <Ulice>Dělnická 789</Ulice>
+          <Misto>Kolín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>28002</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Tomáš Klepal</Nazev>
+          <Ulice>Dělnická 789</Ulice>
+          <Misto>Kolín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>28002</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>tklepal@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>724346468</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="4ffaa15a-fee3-47e9-989f-6618992a4ec1"/>
+        <TelefonSpojeni1 ID="f271e2b8-1858-49cc-8ca4-f64e5c3a3a91"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="829d08c0-ce08-4acc-8b5f-2587421daa0f"/>
+        <SeznamOsob>
+          <Osoba ID="829d08c0-ce08-4acc-8b5f-2587421daa0f">
+            <Nazev>Tomáš Klepal</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

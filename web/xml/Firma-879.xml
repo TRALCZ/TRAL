@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="8dc5e623-171a-4fd7-a0e1-883f32d05af2">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>tomáš marek</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>tomáš marek</Nazev>
+          <Ulice>Čs. armády 872/33</Ulice>
+          <Misto>Praha 6 - Bubeneč</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>16000</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>tomáš marek</Nazev>
+          <Ulice>Čs. armády 872/33</Ulice>
+          <Misto>Praha 6 - Bubeneč</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>16000</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>tomáš marek</Nazev>
+          <Ulice>Čs. armády 872/33</Ulice>
+          <Misto>Praha 6 - Bubeneč</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>16000</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>tomasmarek@iol.cz</Email>
+        <Telefon1>
+          <Cislo>604298288</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="c0233874-fb8c-4898-b444-f5747e517b6d"/>
+        <TelefonSpojeni1 ID="f625ae8f-ca71-42c1-bc28-178b19e457cc"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="a0ba471f-592c-47c9-aac7-ba0af901a078"/>
+        <SeznamOsob>
+          <Osoba ID="a0ba471f-592c-47c9-aac7-ba0af901a078">
+            <Nazev>tomáš marek</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

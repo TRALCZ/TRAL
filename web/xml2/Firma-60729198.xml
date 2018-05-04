@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+      <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+      <ICO>60729198</ICO>
+      <DIC></DIC>
+      <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+          <Ulice>Žebětínek 134/10</Ulice>
+          <Misto>Brno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>62100</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>False</OdlisnaFakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email>info@cpl.cz</Email>
+        <WWW>stv.cz</WWW>
+        <Telefon1>
+          <Cislo>1234567</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo>55555555557</Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="c61fd9c0-91c8-4563-8ebc-fb5106ae791f"/>
+        <WWWSpojeni ID="81a87064-e6fb-4e56-87ac-d60ee33ee81f"/>
+        <TelefonSpojeni1 ID="68eb21b5-e7e3-4e04-90e1-589e443c4075"/>
+        <TelefonSpojeni2 ID="b8783b2d-7454-49bf-b67d-d2b6d04e9ce0"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="7d9e4b79-451e-45ae-9e30-e3fa86c18238"/>
+        <SeznamOsob>
+          <Osoba ID="7d9e4b79-451e-45ae-9e30-e3fa86c18238">
+            <Nazev>Ivanov Ivan Ivanyc</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>15</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>True</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="fc5e2135-d064-4086-8750-b0019088331e" Delete="1"/>
+        <FirmaAdresniKlic ID="cbf05c2d-6467-4be7-8754-c6838e4429b4" Delete="1"/>
+        <FirmaAdresniKlic ID="fc7bcd17-8591-4e80-9c85-8072d000291e">
+          <AdresniKlic_ID>823B82D2-B819-44DE-BED3-51D2F8D45D5F</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+        <FirmaAdresniKlic ID="a864775d-8204-46aa-b71f-7b7f404ccdf1">
+          <AdresniKlic_ID>28A472F3-A883-4B42-8B14-6D2AD9A25251</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="a3e3c787-6a6d-4d98-99c9-5f911c15759e" Delete="1"/>
+          <FirmaCenovaHladina ID="8a28dc46-7ca6-4039-bcab-d0fdda7bcc1e">
+            <CenovaHladina_ID>0F5FAA06-1F1C-49DC-B69E-0104D6A6E2EA</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+        <SeznamCeniku>
+          <FirmaCenik ID="3c4288aa-51b3-4f06-8fcb-6b7237ef2917" Delete="1"/>
+          <FirmaCenik ID="f2473e35-d5a1-46d2-8dff-437f8d8f590b" Delete="1"/>
+          <FirmaCenik ID="3b4f826d-1371-4569-b3ad-471f4f03e13c">
+            <Cenik_ID>76A4BEE0-D4B3-45B1-87FB-3F7C6FD736DE</Cenik_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenik>
+          <FirmaCenik ID="e9248c55-fadc-4e52-9931-101b7251878b">
+            <Cenik_ID>B9222C58-6316-43C4-8B36-53E0AF167D4F</Cenik_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenik>
+        </SeznamCeniku>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

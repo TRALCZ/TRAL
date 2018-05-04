@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <Factory_ZakazkaList>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="6f2ecb86-c2bf-4c14-b4e8-245b75f50ef3">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71704956</CisloZakazky>
+      <PoznamkaKTerminum>Poslat klientu na Naměšt nad Oslavou , ul červený domky 139</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="30e8938c-8968-4b8a-bb5b-04016901aa9d">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>35493.00</CelkovaCastka>
+        <PocetPolozek>2</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="c8c878b9-af83-47c7-8635-c3380f5f89c0">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71705137</CisloZakazky>
+      <PoznamkaKTerminum>vlastní doprava brno 24.10</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="82047dee-baa3-4412-a235-35ab39471f86">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>35925.00</CelkovaCastka>
+        <PocetPolozek>17</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>z.zloch@seznam.cz</Email>
+          <Misto>Nedvědice</Misto>
+          <Nazev>Zbyněk Zloch</Nazev>
+          <PSC>59262</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 537 255</Telefon>
+          <Ulice>Nedvědice 331</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="80fd6209-52b3-446c-8ffa-dbd5f13124b9">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71705163</CisloZakazky>
+      <PoznamkaKTerminum> raben brno 03.10, zloch ano </PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="0ef839e3-11dd-4c82-94b7-df14ec476b72">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>48599.00</CelkovaCastka>
+        <PocetPolozek>26</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>tomas.hartmann@sap.com</Email>
+          <Misto>Brno-Líšeň</Misto>
+          <Nazev>Tomáš Hartmann</Nazev>
+          <PSC>62800</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>732 980 020</Telefon>
+          <Ulice>Bzenecká 9</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="733dd5dd-8fb6-43b3-8d7a-39e7d12a1a45">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71705637</CisloZakazky>
+      <PoznamkaKTerminum>vlastní doprava 13.11</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="1423900e-6802-4c31-8b76-01222f7eef4c">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>8143.00</CelkovaCastka>
+        <PocetPolozek>5</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="263a3ac4-972d-43bd-ba96-e3dd446103f2">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71705847</CisloZakazky>
+      <PoznamkaKTerminum>raben 18.10</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="a58a092a-5bbc-434a-8ec6-fea0333e6a9f">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>2577.00</CelkovaCastka>
+        <PocetPolozek>3</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>jiri.kopecky777@seznam.cz</Email>
+          <Misto>Újezd u Brna</Misto>
+          <Nazev>Jižní Palmíra, družstvo</Nazev>
+          <PSC>66453</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>776 008 007</Telefon>
+          <Ulice>Šternovská 735</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="d26aaf41-cacb-4501-851c-634a6ae5b3cc">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706035</CisloZakazky>
+      <PoznamkaKTerminum>brno 20,12</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="cb5f7529-eae7-4cf6-8f84-e3947c24310d">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>58640.00</CelkovaCastka>
+        <PocetPolozek>20</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="69100c61-5ee1-49ab-8d0a-51c2ca960738">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706088</CisloZakazky>
+      <PoznamkaKTerminum>raben brno 7.12.</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="cc2929a3-ce45-4514-826c-b0d50ecd7952">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>44659.00</CelkovaCastka>
+        <PocetPolozek>17</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>Milena.Kazdova@seznam.cz</Email>
+          <Misto>Rudka</Misto>
+          <Nazev>Pharma Brno s.r.o.</Nazev>
+          <PSC>66483</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>606 776 968</Telefon>
+          <Ulice>Rudka 123</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="06b44f63-a467-4601-8127-0f12626ee145">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706104</CisloZakazky>
+      <PoznamkaKTerminum>raben 20.9. s alexem domluvena urgentní doprava</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="e1b99988-dcc2-4bb6-b7e0-2665272b2008">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>1603.00</CelkovaCastka>
+        <PocetPolozek>3</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="6298ba30-5ea8-4e6a-98fe-6aa3f118c339">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706137</CisloZakazky>
+      <PoznamkaKTerminum>raben brno 8.12.</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="cc12896c-5b95-442c-b5c9-73ca6d3b4f2f">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>8603.00</CelkovaCastka>
+        <PocetPolozek>4</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>jiri.kopecky777@seznam.cz</Email>
+          <Misto>Újezd u Brna</Misto>
+          <Nazev>Jižní Palmíra, družstvo</Nazev>
+          <PSC>66453</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>776 008 007</Telefon>
+          <Ulice>Šternovská 735</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="073b90dc-adc0-485b-9293-1330979560cd">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706357</CisloZakazky>
+      <PoznamkaKTerminum>vyřízeno</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="40131286-0034-438d-9c5f-0108c8af6d36">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>145.00</CelkovaCastka>
+        <PocetPolozek>2</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>G68atevi@seznam.cz</Email>
+          <Misto>Mokrá</Misto>
+          <Nazev>Iveta Grušková</Nazev>
+          <PSC>66404</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>608 054 488</Telefon>
+          <Ulice>Mokrá 315</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="9a312ec1-514d-449c-b4ce-a199cff87550">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71707800</CisloZakazky>
+      <PoznamkaKTerminum>sklad brno zloch</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="108d6470-5d02-44f1-a733-6172f8ca0088">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>5550.00</CelkovaCastka>
+        <PocetPolozek>7</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>monikamarek@tiscali.cz</Email>
+          <Misto>Mariánské Hory a Hulváky</Misto>
+          <Nazev>ALEX Industrial Technical Services s.r.o.</Nazev>
+          <PSC>70900</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 758 859</Telefon>
+          <Ulice>V Zátiší 810/1</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="60d1a66b-3e05-4230-83c9-4b3e368db9f5">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706745</CisloZakazky>
+      <PoznamkaKTerminum>je v Brne</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="84b102ce-db4b-4c41-83bd-0508302436b5">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>1603.00</CelkovaCastka>
+        <PocetPolozek>3</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="9b6302b0-509e-4578-9e01-9662f52a978c">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71707031</CisloZakazky>
+      <PoznamkaKTerminum>sklad brno ned 18.1</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="0b335c2f-aed4-4754-a7ee-02eefd32c5aa">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>16560.00</CelkovaCastka>
+        <PocetPolozek>10</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="bd482cef-8e76-420a-be2e-0fad5b90b869">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71707453</CisloZakazky>
+      <PoznamkaKTerminum>sklad brno, vyzvedne do 23.02</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="24951bd7-f566-49d5-bbb3-6407193764f2">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>15019.00</CelkovaCastka>
+        <PocetPolozek>6</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="69454ce9-6cb6-40c7-b3ce-a6182d12722a">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71707514</CisloZakazky>
+      <PoznamkaKTerminum>skladem brno vyzvedne do 2.2.</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="4a005bef-16bb-450f-81cc-2371c333a199">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>1932.00</CelkovaCastka>
+        <PocetPolozek>2</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>Milena.Kazdova@seznam.cz</Email>
+          <Misto>Rudka</Misto>
+          <Nazev>Pharma Brno s.r.o.</Nazev>
+          <PSC>66483</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>606 776 968</Telefon>
+          <Ulice>Rudka 123</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="37af5dc1-eef8-4c22-8574-dd9b7266cc8d">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71707797</CisloZakazky>
+      <PoznamkaKTerminum>sklad brno zloch</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="7f19a338-2b8a-4445-9b9c-13b7a34edb13">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>2891.00</CelkovaCastka>
+        <PocetPolozek>7</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>monikamarek@tiscali.cz</Email>
+          <Misto>Mariánské Hory a Hulváky</Misto>
+          <Nazev>ALEX Industrial Technical Services s.r.o.</Nazev>
+          <PSC>70900</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 758 859</Telefon>
+          <Ulice>V Zátiší 810/1</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="c3313c88-1fb8-4d4d-89a1-03d92c743c51">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71801239</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="f13a3fc9-111a-41f7-be07-31db5467106c">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>3281.00</CelkovaCastka>
+        <PocetPolozek>5</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>z.zloch@seznam.cz</Email>
+          <Misto>Nedvědice</Misto>
+          <Nazev>Zbyněk Zloch</Nazev>
+          <PSC>59262</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 537 255</Telefon>
+          <Ulice>Nedvědice 331</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="8f11e3ec-1b99-43dd-b192-28bc691eed49">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71801237</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="a2c15558-1ad3-411b-8092-3dc450027f3d">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>43081.00</CelkovaCastka>
+        <PocetPolozek>28</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>z.zloch@seznam.cz</Email>
+          <Misto>Nedvědice</Misto>
+          <Nazev>Zbyněk Zloch</Nazev>
+          <PSC>59262</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 537 255</Telefon>
+          <Ulice>Nedvědice 331</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="0e2ece57-6c4e-4356-9f29-8478494baf4d">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71801466</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="db32cfda-6c0a-4718-ac53-be718ad56c6e">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>73562.00</CelkovaCastka>
+        <PocetPolozek>14</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>monikamarek@tiscali.cz</Email>
+          <Misto>Mariánské Hory a Hulváky</Misto>
+          <Nazev>ALEX Industrial Technical Services s.r.o.</Nazev>
+          <PSC>70900</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 758 859</Telefon>
+          <Ulice>V Zátiší 810/1</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="a7f3eed6-305a-448d-a6f0-b31de00a8f1a">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71800878</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="e48f0d09-1213-47e5-b503-e2e4c83a0920">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>6425.00</CelkovaCastka>
+        <PocetPolozek>4</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="3e9feaa0-82d3-40f6-bc07-befd63d648c3">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706445</CisloZakazky>
+      <PoznamkaKTerminum />
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="be1576ab-2567-45a3-8c52-0870f0aaa628">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>3848.00</CelkovaCastka>
+        <PocetPolozek>3</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>z.zloch@seznam.cz</Email>
+          <Misto>Nedvědice</Misto>
+          <Nazev>Zbyněk Zloch</Nazev>
+          <PSC>59262</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 537 255</Telefon>
+          <Ulice>Nedvědice 331</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="f459cc42-4bc1-487f-ac75-f5f56bddc67b">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71707804</CisloZakazky>
+      <PoznamkaKTerminum>brno 20.12</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="eaaab5d9-a487-4898-9609-b8670692743a">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>25576.00</CelkovaCastka>
+        <PocetPolozek>10</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>info@skrine-dvere-podlahy.cz</Email>
+          <Misto>Říčany</Misto>
+          <Nazev>Ivan Ivanov</Nazev>
+          <PSC>66482</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>605 855 793</Telefon>
+          <Ulice>Brněnská 318</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+    <Factory_Zakazka ObjectName="Factory_Zakazka" ObjectType="Object" ID="fe743145-a43b-4d2b-a67a-2694038813a7">
+      <Group ID="b69412dc-3bca-4300-b8a3-20c5f54c0384" Kod="VO-BR" />
+      <CisloZakazky>71706736</CisloZakazky>
+      <PoznamkaKTerminum>Vlastní doprava 11.01.</PoznamkaKTerminum>
+      <Objednavka ObjectName="ObjednavkaPrijata" ObjectType="Object" ID="36b59e71-1249-4dc4-a587-f7d506092931">
+        <Group ID="b3806adc-e3b1-4f92-b1a6-c52aa7aa7863" Kod="VO-BR" />
+        <CelkovaCastka>36708.00</CelkovaCastka>
+        <PocetPolozek>14</PocetPolozek>
+        <AdresaKoncovehoPrijemce>
+          <Email>david.raus@seznam.cz</Email>
+          <Misto>Brno-střed</Misto>
+          <Nazev>LUWA Česká republika s.r.o.</Nazev>
+          <PSC>60200</PSC>
+          <Stat>Česká republika</Stat>
+          <Telefon>602 889 245  </Telefon>
+          <Ulice>Jakubské náměstí 109/1</Ulice>
+        </AdresaKoncovehoPrijemce>
+      </Objednavka>
+    </Factory_Zakazka>
+  </Factory_ZakazkaList>
+</S5Data>

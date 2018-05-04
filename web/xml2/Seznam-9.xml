@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="0f597a61-80eb-4228-8530-5c990d716aee">
+      <Group ID="9d6656be-4875-4319-8ad5-113de557622e"/>
+      <Nazev>Interiérové dveře ALEJA 1/3 70 L ořech FINISH PZ pp CZ</Nazev>
+      <Popis>Interiérové dveře ALEJA 1/3 70 L ořech FINISH PZ pp CZ</Popis>
+      <Kod></Kod>
+      <CarovyKod>1234567</CarovyKod>
+      <VlastniHmotnost>20</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>11</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID>0193ab29-39ac-4875-9386-6ff90e2b96e5</Firma_ID>
+            <NazevFirmy>Mercedes-Benz PRAHA s.r.o.</NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

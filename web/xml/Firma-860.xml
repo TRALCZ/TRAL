@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="a5e1a311-98e5-4062-886c-a4636f90c42c">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Stanislava Vargova</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Stanislava Vargova</Nazev>
+          <Ulice>Kostelni Hlavno 128</Ulice>
+          <Misto>Kostelní Hlavno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>29476</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Stanislava Vargova</Nazev>
+          <Ulice>Kostelni Hlavno 128</Ulice>
+          <Misto>Kostelní Hlavno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>29476</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Stanislava Vargova</Nazev>
+          <Ulice>Kostelni Hlavno 128</Ulice>
+          <Misto>Kostelní Hlavno</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>29476</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>Vargovka2@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>724017998</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="ca7fb56a-78c4-4f61-a42c-88b160ef4fb5"/>
+        <TelefonSpojeni1 ID="4df52eb4-6ee2-4634-aa0a-24db866296e4"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="366211de-e594-464d-9df9-b1a0e5e6faec"/>
+        <SeznamOsob>
+          <Osoba ID="366211de-e594-464d-9df9-b1a0e5e6faec">
+            <Nazev>Stanislava Vargova</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="ed2e9751-bdcc-425d-b312-a9b12950cebf">
+      <Group ID=""/>
+      <Nazev>Interiérové dveře AZALKA 2 70 L olše LAK BB CZ</Nazev>
+      <Popis>Interiérové dveře AZALKA 2 70 L olše LAK BB CZ</Popis>
+      <Kod>0000001</Kod>
+      <CarovyKod>123456789</CarovyKod>
+      <VlastniHmotnost>15</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>30</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID>c926dbdc-3672-438c-8d18-4deaff65988d</Firma_ID>
+            <NazevFirmy>Dominika Vejmelková  </NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

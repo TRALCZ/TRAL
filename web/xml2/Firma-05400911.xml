@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="dfe418ca-3b90-4a2f-86d1-bd2e41266dc1">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>05400911</ICO>
+      <DIC></DIC>
+      <Nazev>U LAMY s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>U LAMY s.r.o.</Nazev>
+          <Ulice>Pletařská 660/9</Ulice>
+          <Misto>Krásná Lípa</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>40746</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>ULAMY s.r.o.</Nazev>
+          <Ulice>Pletařská 660/9</Ulice>
+          <Misto>Krásná Lípa</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>40746</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Kostka Krásná Lípa</Nazev>
+          <Ulice>Masarykova 1094/4</Ulice>
+          <Misto>Krásná Lípa</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>40746</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>volfova@soukroma.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>773581846</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="be831798-f606-471e-9ea1-c66fd8129565"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="c7b5c4fe-747e-4c86-a2d9-383ea197c2d2"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="96cca1e4-9749-499d-a094-9a5b7b0e0b09"/>
+        <SeznamOsob>
+          <Osoba ID="96cca1e4-9749-499d-a094-9a5b7b0e0b09">
+            <Nazev>Hana Volfová</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

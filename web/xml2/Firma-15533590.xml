@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="b6d72903-19a7-4f22-abd6-97a329256ab2">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>15533590</ICO>
+      <DIC></DIC>
+      <Nazev>Vladimír Krupka</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Vladimír Krupka</Nazev>
+          <Ulice>Velké dráhy 152</Ulice>
+          <Misto>Opatovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>66461</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Vladimír Krupka</Nazev>
+          <Ulice>Velké Dráhy 152</Ulice>
+          <Misto>Opatovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>66461</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Vladimír Krupka</Nazev>
+          <Ulice>U Hřiště 433</Ulice>
+          <Misto>Žabčice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>66463</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>stavointex@seznam.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>702035140</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="58d2b326-677f-4094-9674-526eb78d69b6"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="113af89b-f6d1-4a75-87db-1db03e9d4cc8"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="72f97dc8-2e93-4424-bf27-5980a17c6796"/>
+        <SeznamOsob>
+          <Osoba ID="72f97dc8-2e93-4424-bf27-5980a17c6796">
+            <Nazev>Vladimír Krupka</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="d599a6b3-5068-4a56-bf8b-359b9ca90438">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>42080649</ICO>
+      <DIC>CZ6605132006</DIC>
+      <Nazev>Antonín Atanasovský</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Antonín Atanasovský</Nazev>
+          <Ulice>K Boru 107/3</Ulice>
+          <Misto>Hlučín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74801</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>DIČ:CZ6605132006</Nazev>
+          <Ulice>K Boru 107/3</Ulice>
+          <Misto>Hlučín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74801</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>DIČ:CZ6605132006</Nazev>
+          <Ulice>K Boru 107/3</Ulice>
+          <Misto>Hlučín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74801</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>antonin.atanasovsky@email.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>605125817</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="7dd8ca37-b5e0-4c6a-a9af-8f98ccbbab30"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="83901ae5-ee8b-4881-a004-73e7db07cbdd"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="96916530-0a01-40b1-a87a-9a3b74ad8486"/>
+        <SeznamOsob>
+          <Osoba ID="96916530-0a01-40b1-a87a-9a3b74ad8486">
+            <Nazev>Antonín Atanasovský</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

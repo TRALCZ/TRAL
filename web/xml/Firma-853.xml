@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="6c216888-f690-47de-a792-335b5d738a9b">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Stanislav  Domanský</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Stanislav  Domanský</Nazev>
+          <Ulice>Kublov 202</Ulice>
+          <Misto>Kublov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>26741</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Stanislav  Domanský</Nazev>
+          <Ulice>Kublov 202</Ulice>
+          <Misto>Kublov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>26741</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Stanislav  Domanský</Nazev>
+          <Ulice>Kublov 202</Ulice>
+          <Misto>Kublov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>26741</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>standa.domansky@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>775949025</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="2279e5e9-e587-4108-b21d-320bd669dc77"/>
+        <TelefonSpojeni1 ID="aa013759-730f-46b9-8985-ab80b93df0c2"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="8963954f-7628-4cf3-94d6-d40db1a8662b"/>
+        <SeznamOsob>
+          <Osoba ID="8963954f-7628-4cf3-94d6-d40db1a8662b">
+            <Nazev>Stanislav  Domanský</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="9ba4974b-fa7f-44b2-b539-cbbdcdd0ad23">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>27909590</ICO>
+      <DIC>CZ27909590</DIC>
+      <Nazev>ERKADO CZ s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>ERKADO CZ s.r.o.</Nazev>
+          <Ulice>Krausova 604</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>19900</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>ERKADO 1</Nazev>
+          <Ulice>Na Zátorce 1048/16</Ulice>
+          <Misto>Praha 6 - Bubeneč</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>16000</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>ERKADO 1</Nazev>
+          <Ulice>Na Zátorce 1048/16</Ulice>
+          <Misto>Praha 6 - Bubeneč</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>16000</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>portasov@post.com</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>777 656 999</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="c211f2f5-60a1-47cb-bab9-554894d4f0af"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="a1da202c-a3b9-4cb5-ad5c-2bcf8ab0df31"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="e4111d0e-c832-4975-85d5-f5b56edda6e7"/>
+        <SeznamOsob>
+          <Osoba ID="e4111d0e-c832-4975-85d5-f5b56edda6e7">
+            <Nazev>Jurij Trofymec</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

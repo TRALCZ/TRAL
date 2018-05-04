@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="2e14268a-5783-48cb-87c6-a1c956131f16">
+      <Group ID="05ED551D-A935-4CE1-8E13-F83A1AB87FD6"/>
+      <ICO>47674792</ICO>
+      <DIC>CZ47674792</DIC>
+      <Nazev>Svaz výrobců mléka a.s.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Svaz výrobců mléka a.s.</Nazev>
+          <Ulice>Nemocniční 1852/53</Ulice>
+          <Misto>Šumperk</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78701</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>False</OdlisnaFakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email>info@cpl.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>123456789</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="b8244456-424d-4ab9-beca-67de0fb4457a"/>
+        <WWWSpojeni ID="0243272a-5213-4227-ba7d-e71982450302"/>
+        <TelefonSpojeni1 ID="52f0f0e0-dd05-4d1d-9f29-f95fb14627be"/>
+        <TelefonSpojeni2 ID="bda26ba6-c7ea-4921-a81a-66fcb8d90a99"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="14160cee-60e8-48e5-890f-48c1aa18e72f"/>
+        <SeznamOsob>
+          <Osoba ID="14160cee-60e8-48e5-890f-48c1aa18e72f">
+            <Nazev>Yurgen Klinsmán</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>15</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>True</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="c23fdd61-50db-4757-bddd-4b14c7ba62d6" Delete="1"/>
+          <FirmaCenovaHladina ID="6043ac03-4e88-4503-bbc2-d4319e640e53" Delete="1"/>
+          <FirmaCenovaHladina ID="214536f5-9c2c-4e49-8745-cac4b3a977f8">
+            <CenovaHladina_ID>0F5FAA06-1F1C-49DC-B69E-0104D6A6E2EA</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+          <FirmaCenovaHladina ID="f9e0717f-664b-41fe-8b50-f345e79272a2">
+            <CenovaHladina_ID>20ACA9F7-046F-4768-B9A5-1D4CDF19750B</CenovaHladina_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+        <SeznamCeniku>
+          <FirmaCenik ID="48903456-3d22-4028-bc4a-c7ab8e8160ac" Delete="1"/>
+          <FirmaCenik ID="a0fa7bd0-d938-48be-9232-2d14a955017d" Delete="1"/>
+          <FirmaCenik ID="ea9736ea-184a-4e7a-8813-616c037d667f">
+            <Cenik_ID>76A4BEE0-D4B3-45B1-87FB-3F7C6FD736DE</Cenik_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenik>
+          <FirmaCenik ID="6115a5cc-54d4-4cac-bf8d-b6bed1a82f35">
+            <Cenik_ID>B9222C58-6316-43C4-8B36-53E0AF167D4F</Cenik_ID>
+            <Poradi>2</Poradi>
+          </FirmaCenik>
+        </SeznamCeniku>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

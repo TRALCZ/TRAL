@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="e071b242-7c7f-46f9-b9b9-02a2ef9c4524">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jan Cimmermann</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jan Cimmermann</Nazev>
+          <Ulice>Járy Cimrmana 121</Ulice>
+          <Misto>Horšovský Týn</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>34601</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jan Cimmermann</Nazev>
+          <Ulice>Járy Cimrmana 121</Ulice>
+          <Misto>Horšovský Týn</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>34601</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jan Cimmermann</Nazev>
+          <Ulice>Járy Cimrmana 121</Ulice>
+          <Misto>Horšovský Týn</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>34601</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>cimmermann@homemail.com</Email>
+        <Telefon1>
+          <Cislo>775054849</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="36cc1246-aa5f-4556-b0a0-76f19d2ae6e2"/>
+        <TelefonSpojeni1 ID="1a6cc696-ff8b-4cd2-8b0c-e6cc0e77265a"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="3fe3d955-8313-4944-afcc-e54685aab2fa"/>
+        <SeznamOsob>
+          <Osoba ID="3fe3d955-8313-4944-afcc-e54685aab2fa">
+            <Nazev>Jan Cimmermann</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="ffcb1af1-ea90-4dfc-9bdc-b2c5ab7d2b9c">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>47287977</ICO>
+      <DIC>CZ47287977</DIC>
+      <Nazev>Agrokomplex, spol. s r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Agrokomplex, spol. s r.o.</Nazev>
+          <Ulice>Příbramská 278</Ulice>
+          <Misto>Verneřice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>40725</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Agrokomplex spol. s r. o.</Nazev>
+          <Ulice>Příbramská 278</Ulice>
+          <Misto>Verneřice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>40725</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Agrokomplex spol. s r. o.</Nazev>
+          <Ulice>Příbramská 278</Ulice>
+          <Misto>Verneřice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>40725</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>helenadousova@agrokomplex-vernerice.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>731109973</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="c5543e14-d780-4b6a-8893-39fa7f1023d7"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="65a2203a-7160-4a67-80ff-c5f52e8cef60"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="8cbc38cd-b395-40ef-918d-c4d14aeed736"/>
+        <SeznamOsob>
+          <Osoba ID="8cbc38cd-b395-40ef-918d-c4d14aeed736">
+            <Nazev>Helena Doušová </Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="086f9ab7-3bb8-4f7e-81fd-69b0139c8db9">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>jaroslav  chrudina</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>jaroslav  chrudina</Nazev>
+          <Ulice>Wolkerova 16/22</Ulice>
+          <Misto>Šumperk 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78701</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>jaroslav  chrudina</Nazev>
+          <Ulice>Wolkerova 16/22</Ulice>
+          <Misto>Šumperk 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78701</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>jaroslav  chrudina</Nazev>
+          <Ulice>Wolkerova 16/22</Ulice>
+          <Misto>Šumperk 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78701</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>jaroslav.chrudina@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>777856405</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="e4724c1c-dcff-4807-8779-9008477b9cfc"/>
+        <TelefonSpojeni1 ID="3653e58c-eea7-4ea9-b7ca-dd0bae988166"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="fce38b64-aeeb-46fc-b21e-ac0a97fe2889"/>
+        <SeznamOsob>
+          <Osoba ID="fce38b64-aeeb-46fc-b21e-ac0a97fe2889">
+            <Nazev>jaroslav  chrudina</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

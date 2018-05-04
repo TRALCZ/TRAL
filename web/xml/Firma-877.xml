@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="5af20a48-a282-489e-9705-4e2e9b7109e5">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jan KARAS</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jan KARAS</Nazev>
+          <Ulice>Vrchlického 2241</Ulice>
+          <Misto>Havlíčkův Brod 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>58001</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jan KARAS</Nazev>
+          <Ulice>Vrchlického 2241</Ulice>
+          <Misto>Havlíčkův Brod 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>58001</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jan KARAS</Nazev>
+          <Ulice>Vrchlického 2241</Ulice>
+          <Misto>Havlíčkův Brod 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>58001</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>karas@almita.cz</Email>
+        <Telefon1>
+          <Cislo>777008953</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="ce4f0741-c7e0-46cc-a37f-ba5362264d6d"/>
+        <TelefonSpojeni1 ID="8c48b25e-afb5-4002-b17c-7f91e2877b82"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="dac6c7a8-d665-4371-bd8b-5e357dc7e42f"/>
+        <SeznamOsob>
+          <Osoba ID="dac6c7a8-d665-4371-bd8b-5e357dc7e42f">
+            <Nazev>Jan KARAS</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="debcc38f-2b59-4078-bb1a-74666c1a67a3">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Josef  Valigura</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Josef  Valigura</Nazev>
+          <Ulice>Zámostí 218/22</Ulice>
+          <Misto>Horní Moštěnice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>75117</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Josef  Valigura</Nazev>
+          <Ulice>Zámostí 218/22</Ulice>
+          <Misto>Horní Moštěnice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>75117</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Josef  Valigura</Nazev>
+          <Ulice>Zámostí 218/22</Ulice>
+          <Misto>Horní Moštěnice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>75117</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>vali.100@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>731450883</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="8fa82fd4-bf76-4110-bfc5-533e13796ee7"/>
+        <TelefonSpojeni1 ID="ad1e63ec-bd13-4108-b737-7f14602ad256"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="05733e2e-8793-4e8f-adf2-8d023b18b78b"/>
+        <SeznamOsob>
+          <Osoba ID="05733e2e-8793-4e8f-adf2-8d023b18b78b">
+            <Nazev>Josef  Valigura</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

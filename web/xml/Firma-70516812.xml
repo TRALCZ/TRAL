@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="fec2b927-7932-45f4-83e7-b623dd53c260">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>70516812</ICO>
+      <DIC>CZ7404151755</DIC>
+      <Nazev>Jan Vácha</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jan Vácha</Nazev>
+          <Ulice>Nádražní 105</Ulice>
+          <Misto>Chotoviny</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39137</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jan  Vácha</Nazev>
+          <Ulice>Nádražní 105</Ulice>
+          <Misto>Chotoviny</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39137</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jan  Vácha</Nazev>
+          <Ulice>Nádražní 105</Ulice>
+          <Misto>Chotoviny</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>39137</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>detskeinteriery@seznam.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>604917959</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="5a39f33f-6548-449d-8f1c-c8a880907aba"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="eed21c33-07c2-4aa3-8808-f232b4e53313"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="10ea3efd-26d8-44ef-af3c-a5a5e72f32d1"/>
+        <SeznamOsob>
+          <Osoba ID="10ea3efd-26d8-44ef-af3c-a5a5e72f32d1">
+            <Nazev>Jan  Vácha</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

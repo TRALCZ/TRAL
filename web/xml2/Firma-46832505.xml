@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="a22acb95-eac7-479f-a6ff-c06f632b9d41">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>46832505</ICO>
+      <DIC>CZ6103020154</DIC>
+      <Nazev>Ing. Jiří Špičan</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Ing. Jiří Špičan</Nazev>
+          <Ulice>Arbesova 2319/4</Ulice>
+          <Misto>Plzeň</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>30100</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Ing. Jiří Špičan</Nazev>
+          <Ulice>Ledová 18 c</Ulice>
+          <Misto>Plzeň</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>31200</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Ing. Jiří Špičan</Nazev>
+          <Ulice>Ledová 18 c</Ulice>
+          <Misto>Plzeň</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>31200</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>Jiri.Spican@quick.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>606755634</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="921a79fe-f20f-4163-a21e-0bf731d0139d"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="0a667480-8bf1-42aa-b407-adab79a2f886"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="7e3710a4-8c91-44d0-a7fd-3682c32f60c6"/>
+        <SeznamOsob>
+          <Osoba ID="7e3710a4-8c91-44d0-a7fd-3682c32f60c6">
+            <Nazev>Jiří Špičan</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="e2353bc4-80ad-4d3a-81fe-4ee021887211">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Petr Krásný</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Petr Krásný</Nazev>
+          <Ulice>Dolní 2890</Ulice>
+          <Misto>Zlín 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>76001</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Petr Krásný</Nazev>
+          <Ulice>Dolní 2890</Ulice>
+          <Misto>Zlín 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>76001</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Petr Krásný</Nazev>
+          <Ulice>Dolní 2890</Ulice>
+          <Misto>Zlín 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>76001</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>pet.krasny@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>602289338</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="ec00e7be-4a0d-4734-86ee-8e76a22d12b2"/>
+        <TelefonSpojeni1 ID="5cb3dce7-58ff-489b-9dba-b0847d6a623c"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="3f27924a-f60a-4f72-899a-e08a897e673e"/>
+        <SeznamOsob>
+          <Osoba ID="3f27924a-f60a-4f72-899a-e08a897e673e">
+            <Nazev>Petr Krásný</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

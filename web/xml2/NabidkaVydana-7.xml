@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <NabidkaVydanaList>
+    <NabidkaVydana ID="648cacd5-2b5b-41b8-8d6e-01017b62c738">
+      <CelkovaCastka>6353.46</CelkovaCastka>
+      <CelkovaCastkaCM>6353.46</CelkovaCastkaCM>
+      <CisloDokladu>N-7</CisloDokladu>
+      <Nazev>Test 555</Nazev>
+      <Adresa>
+        <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+          <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+        </Firma>
+        <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+        <KontaktniOsobaNazev>Ivanov Ivan Ivanyc</KontaktniOsobaNazev>
+        <Misto>Brno</Misto>
+        <Ulice>Žebětínek 134/10</Ulice>
+        <PSC>62100</PSC>
+        <Stat>Česká republika</Stat>
+      </Adresa>
+      <AdresaKoncovehoPrijemce>
+        <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+          <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+        </Firma>
+        <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+        <KontaktniOsobaNazev>Ivanov Ivan Ivanyc</KontaktniOsobaNazev>
+        <Misto>Brno</Misto>
+        <Ulice>Žebětínek 134/10</Ulice>
+        <PSC>62100</PSC>
+        <Stat>Česká republika</Stat>
+      </AdresaKoncovehoPrijemce>
+      <AdresaPrijemceFaktury>
+        <Firma ID="fad4c464-3243-4a5c-8480-eae4bee44818">
+          <Group ID="8E36CCA5-1162-450F-9D0A-3F6B30D18557"/>
+        </Firma>
+        <Nazev>ART.BIO.FERM s.r.o.</Nazev>
+        <KontaktniOsobaNazev>Ivanov Ivan Ivanyc</KontaktniOsobaNazev>
+        <Misto>Brno</Misto>
+        <Ulice>Žebětínek 134/10</Ulice>
+        <PSC>62100</PSC>
+        <Stat>Česká republika</Stat>
+      </AdresaPrijemceFaktury>
+      <Suma>
+        <Celkem>6353.46</Celkem>
+        <CelkemCM>6353.46</CelkemCM>
+        <Dan>782.46</Dan>
+        <DanCM>782.46</DanCM>
+        <Zaklad>5571.00</Zaklad>
+        <ZakladCM>5571.00</ZakladCM>
+      </Suma>
+      <DPH0>
+        <Celkem>1845.00</Celkem>
+        <CelkemCM>1845.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>0.00</Sazba>
+        <Zaklad>1845.00</Zaklad>
+        <ZakladCM>1845.00</ZakladCM>
+      </DPH0>
+      <DPH1>
+        <Celkem>0.00</Celkem>
+        <CelkemCM>0.00</CelkemCM>
+        <Dan>0.00</Dan>
+        <DanCM>0.00</DanCM>
+        <Sazba>15.00</Sazba>
+        <Zaklad>0.00</Zaklad>
+        <ZakladCM>0.00</ZakladCM>
+      </DPH1>
+      <DPH2>
+        <Celkem>4508.46</Celkem>
+        <CelkemCM>4508.46</CelkemCM>
+        <Dan>782.46</Dan>
+        <DanCM>782.46</DanCM>
+        <Sazba>21.00</Sazba>
+        <Zaklad>3726.00</Zaklad>
+        <ZakladCM>3726.00</ZakladCM>
+      </DPH2>
+    </NabidkaVydana>
+  </NabidkaVydanaList>
+</S5Data>

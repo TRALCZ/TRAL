@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="22e6357d-73a4-4d0a-bbbc-faec82348e88">
+      <Group ID="08d1e4c7-4023-4f00-a2a3-fc80ad83117c" Kod="4101" />
+      <Attachment_ID />
+      <Baleni />
+      <CarovyKod />
+      <CarovyKodCislo>0</CarovyKodCislo>
+      <CarovyKodTyp EnumValueName="Netisknout">0</CarovyKodTyp>
+      <CisloS3>87918</CisloS3>
+      <Delka_ID />
+      <DodaciPodminkyOdeslani_ID />
+      <DodaciPodminkyPrijeti_ID />
+      <DoplnkovaJednotka_ID />
+      <DruhArtiklu_ID>7e1bfc1c-0c0c-4f3b-a10f-0cba0a30c5ce</DruhArtiklu_ID>
+      <DruhBaleni_ID />
+      <DruhDopravyOdeslani_ID />
+      <DruhDopravyPrijeti_ID />
+      <DruhObalu_ID />
+      <DruhPrislusenstvi_ID />
+      <ExistujeKategorie>False</ExistujeKategorie>
+      <HlavniDodavatel_ID>4cd3a06a-e713-4bc2-8a48-36d4cc32a119</HlavniDodavatel_ID>
+      <HlavniJednotka_ID>16515864-7e36-4140-91d6-4f2cb9b42e09</HlavniJednotka_ID>
+      <Hmostnost_ID />
+      <IntrastatNeslucovat>False</IntrastatNeslucovat>
+      <Katalog />
+      <KatalogCislo>0</KatalogCislo>
+      <Kategorie />
+      <KategorieEEZ_ID />
+      <Kod>129056</Kod>
+      <KodCislo>0</KodCislo>
+      <KombinovanaNomenklatura_ID>2e750fb2-3e75-476a-b782-528180f750ce</KombinovanaNomenklatura_ID>
+      <KrajPuvodu_ID />
+      <KrajUrceni_ID />
+      <MinimalniObjednavka>0.0000</MinimalniObjednavka>
+      <MnozstviVDoplnkove>0.0000</MnozstviVDoplnkove>
+      <NadrazenyArtikl_ID />
+      <NakupniJednotka_ID />
+      <Nazev>TUNEL 100-120 WENGE GREKO 60 CZ</Nazev>
+      <NepodlehaDPH>False</NepodlehaDPH>
+      <NepodlehatSleveDokladu>False</NepodlehatSleveDokladu>
+      <NoveVygenerovanaVarianta>False</NoveVygenerovanaVarianta>
+      <ObchodniNazev />
+      <Objem_ID />
+      <OddelovacParametruVKoduVariant />
+      <OvlivnujeIntrastat>True</OvlivnujeIntrastat>
+      <Plocha_ID />
+      <PLU>129055</PLU>
+      <PLUCislo>0</PLUCislo>
+      <Popis>TUNEL 100-120 WENGE GREKO 60 CZ</Popis>
+      <PosledniCena>0.0000</PosledniCena>
+      <PosledniCenaCM>0.0000</PosledniCenaCM>
+      <PosledniDodavka>1753-01-01T00:00:00</PosledniDodavka>
+      <PosledniMena_ID />
+      <PovahaTransakceOdeslani_ID />
+      <PovahaTransakcePrijeti_ID />
+      <PovinnyNasobek>0.0000</PovinnyNasobek>
+      <Poznamka />
+      <PreneseniDane_ID>46811e4a-a729-4afe-b746-ec05842c7fe7</PreneseniDane_ID>
+      <PreneseniDaneKN />
+      <PreneseniDaneMnozstvi>0.0000</PreneseniDaneMnozstvi>
+      <PrilepovatKodZaKodKarty>False</PrilepovatKodZaKodKarty>
+      <PripojitParametryKBaleni>False</PripojitParametryKBaleni>
+      <PripojitParametryKeKatalogu>False</PripojitParametryKeKatalogu>
+      <PripojitParametryKeZkratka12>False</PripojitParametryKeZkratka12>
+      <PripojitParametryKeZkratka20>False</PripojitParametryKeZkratka20>
+      <PripojitParametryKeZnacce>False</PripojitParametryKeZnacce>
+      <PripojitParametryKNazvu>False</PripojitParametryKNazvu>
+      <PripojitParametryKObchJmenu>False</PripojitParametryKObchJmenu>
+      <PripojitParametryKPopisu>False</PripojitParametryKPopisu>
+      <PripojitParametryKVariante>False</PripojitParametryKVariante>
+      <ProdejniJednotka_ID />
+      <PuvodemMajetek>False</PuvodemMajetek>
+      <RadaCarovyKod_ID />
+      <RadaDetail_ID />
+      <RadaKatalog_ID />
+      <RadaKod_ID>033783cf-fb11-444c-9342-438b1ba69548</RadaKod_ID>
+      <RadaPLU_ID>4e55ce5e-f863-4865-91ff-786fdc8c758d</RadaPLU_ID>
+      <RETELA>False</RETELA>
+      <Sirka_ID />
+      <SKP_ID />
+      <SmazatOstatniCinnosti>False</SmazatOstatniCinnosti>
+      <SmazatOstatniDodavatele>False</SmazatOstatniDodavatele>
+      <SmazatOstatniJednotky>False</SmazatOstatniJednotky>
+      <SmazatOstatniKategorie>False</SmazatOstatniKategorie>
+      <SmazatOstatniKody>False</SmazatOstatniKody>
+      <SmazatOstatniOdberatele>False</SmazatOstatniOdberatele>
+      <SmazatOstatniParametry>False</SmazatOstatniParametry>
+      <SmazatOstatniProduktoveKlice>False</SmazatOstatniProduktoveKlice>
+      <SmazatOstatniRozmery>False</SmazatOstatniRozmery>
+      <SmazatOstatniSazbyDPH>False</SmazatOstatniSazbyDPH>
+      <StatistickyZnak_ID />
+      <StatOdeslani_ID />
+      <StatPuvodu_ID>8a19e301-cad0-4f95-85cd-1c16439bd8e8</StatPuvodu_ID>
+      <StatUrceni_ID />
+      <TypArtiklu EnumValueName="Jednoduchy">0</TypArtiklu>
+      <TypEvidence EnumValueName="Neni">0</TypEvidence>
+      <Varianta />
+      <VlastniHmotnost>20.000000</VlastniHmotnost>
+      <Vyrobce_Firma_ID />
+      <Vyska_ID />
+      <ZapornaCastka>False</ZapornaCastka>
+      <Zkratka12 />
+      <Zkratka20>100-120 WENGE GREKO</Zkratka20>
+      <Znacka />
+      <ZvlastniPohyb_ID />
+      <ZvlastniRezimDPH EnumValueName="Zadne">0</ZvlastniRezimDPH>
+      <CiselneRady>
+        <RadaKod ObjectName="CiselnaRada" ObjectType="Object" ID="033783cf-fb11-444c-9342-438b1ba69548" />
+        <RadaPLU ObjectName="CiselnaRada" ObjectType="Object" ID="4e55ce5e-f863-4865-91ff-786fdc8c758d" />
+      </CiselneRady>
+      <DodaciLhuta>
+        <Doba>0</Doba>
+        <Typ EnumValueName="Neurceno">0</Typ>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel ObjectName="ArtiklDodavatel" ObjectType="Object" ID="4cd3a06a-e713-4bc2-8a48-36d4cc32a119" />
+        <SeznamDodavatelu ObjectName="ArtiklDodavatel" ObjectType="List">
+          <ArtiklDodavatel ObjectName="ArtiklDodavatel" ObjectType="Object" ID="4cd3a06a-e713-4bc2-8a48-36d4cc32a119">
+            <ArtiklJednotka_ID>16515864-7e36-4140-91d6-4f2cb9b42e09</ArtiklJednotka_ID>
+            <CarovyKod_ID />
+            <Firma_ID>330bf001-da78-4fba-bea3-17619528871e</Firma_ID>
+            <Jednotka_ID />
+            <MinimalniObjednavka>0.0000</MinimalniObjednavka>
+            <NazevFirmy>Erkado Zbigniew Kozlowski</NazevFirmy>
+            <PosledniCena>0.0000</PosledniCena>
+            <PosledniCenaCM>0.0000</PosledniCenaCM>
+            <PosledniDodavka>1753-01-01T00:00:00</PosledniDodavka>
+            <PosledniMena_ID />
+            <PovinnyNasobek>0.0000</PovinnyNasobek>
+            <DodaciLhuta>
+              <Doba>0</Doba>
+              <Typ EnumValueName="Neurceno">0</Typ>
+            </DodaciLhuta>
+            <DodavatelskeOznaceni>
+              <Kod />
+              <Nazev />
+            </DodavatelskeOznaceni>
+            <Zaruka>
+              <Doba>0</Doba>
+              <Typ EnumValueName="Zadna">0</Typ>
+            </Zaruka>
+            <ArtiklJednotka ObjectName="ArtiklJednotka" ObjectType="Object" ID="16515864-7e36-4140-91d6-4f2cb9b42e09" />
+            <Firma ObjectName="Firma" ObjectType="Object" ID="330bf001-da78-4fba-bea3-17619528871e">
+              <Group ID="8e36cca5-1162-450f-9d0a-3f6b30d18557" Kod="1" />
+            </Firma>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+      <HTMLPopisy>
+        <HTMLPopis1>
+          <Popis />
+          <Poznamka>&lt;P&gt;&lt;/P&gt;</Poznamka>
+          <PoznamkaPlaintext />
+        </HTMLPopis1>
+        <HTMLPopis2>
+          <Popis />
+          <Poznamka>&lt;P&gt;&lt;/P&gt;</Poznamka>
+          <PoznamkaPlaintext />
+        </HTMLPopis2>
+        <HTMLPopis3>
+          <Popis />
+          <Poznamka>&lt;P&gt;&lt;/P&gt;</Poznamka>
+          <PoznamkaPlaintext />
+        </HTMLPopis3>
+      </HTMLPopisy>
+      <Jednotky>
+        <HlavniJednotka ObjectName="ArtiklJednotka" ObjectType="Object" ID="16515864-7e36-4140-91d6-4f2cb9b42e09" />
+        <SeznamJednotek ObjectName="ArtiklJednotka" ObjectType="List">
+          <ArtiklJednotka ObjectName="ArtiklJednotka" ObjectType="Object" ID="16515864-7e36-4140-91d6-4f2cb9b42e09">
+            <DesetinnaMista>0</DesetinnaMista>
+            <DruhBaleni_ID />
+            <DruhObalu_ID />
+            <Jednotka_ID>e604a0fa-c14a-40ca-97ab-c92b2ce618ef</Jednotka_ID>
+            <Kod>ks</Kod>
+            <KodProTisk_ID />
+            <MaterialObalu_ID />
+            <Mnozstvi>1.0000</Mnozstvi>
+            <NedelitelneMnozstvi>0.0000</NedelitelneMnozstvi>
+            <ParentJednotka_ID />
+            <TypJednotky EnumValueName="Logisticka">0</TypJednotky>
+            <VychoziMnozstvi>1.0000</VychoziMnozstvi>
+            <Baleni ObjectName="ArtiklBaleni" ObjectType="List" />
+            <Jednotka ObjectName="Jednotka" ObjectType="Object" ID="e604a0fa-c14a-40ca-97ab-c92b2ce618ef" />
+          </ArtiklJednotka>
+        </SeznamJednotek>
+      </Jednotky>
+      <NadrazenyArtikl />
+      <Odberatele>
+        <SeznamOdberatelu ObjectName="ArtiklOdberatel" ObjectType="List" />
+      </Odberatele>
+      <Rozmery>
+        <SeznamRozmeru ObjectName="ArtiklRozmer" ObjectType="List" />
+      </Rozmery>
+      <RozsirenePopisy>
+        <Popis1>
+          <Popis />
+          <Poznamka />
+        </Popis1>
+        <Popis2>
+          <Popis />
+          <Poznamka />
+        </Popis2>
+        <Popis3>
+          <Popis />
+          <Poznamka />
+        </Popis3>
+      </RozsirenePopisy>
+      <Vykazy>
+        <EvidenceLihu EnumValueName="Neni">0</EvidenceLihu>
+        <ObjemoveProcentoLihu>0.00</ObjemoveProcentoLihu>
+        <ObjemSpotrebitelskehoBaleni>0</ObjemSpotrebitelskehoBaleni>
+        <PocetKontrolnichPasek>1</PocetKontrolnichPasek>
+      </Vykazy>
+      <Vyrobce>
+        <Nazev />
+      </Vyrobce>
+      <Zaruka>
+        <Doba>0</Doba>
+        <Typ EnumValueName="Zadna">0</Typ>
+      </Zaruka>
+      <ArtiklElektronickyObchod ObjectName="ArtiklElektronickyObchod" ObjectType="List" />
+      <Cinnosti ObjectName="ArtiklCinnost" ObjectType="List" />
+      <DruhArtiklu ObjectName="DruhArtiklu" ObjectType="Object" ID="7e1bfc1c-0c0c-4f3b-a10f-0cba0a30c5ce" />
+      <Identifikace ObjectName="ArtiklIdentifikace" ObjectType="List" />
+      <KombinovanaNomenklatura ObjectName="KombinovanaNomenklatura" ObjectType="Object" ID="2e750fb2-3e75-476a-b782-528180f750ce">
+        <Group ID="8fe99ef7-515d-4978-8249-cd2ed66b3ede" Kod="44" />
+      </KombinovanaNomenklatura>
+      <OM2Artikl ObjectName="OM2_Artikl" ObjectType="Object" ID="909cd8f4-8430-4611-95ba-c0488c0f561b">
+        <DodaciPodminky_ID />
+        <Neplanovat>False</Neplanovat>
+        <VyjmenovaneTerminyDodani />
+        <ZahajeniProdeje>1753-01-01T00:00:00</ZahajeniProdeje>
+      </OM2Artikl>
+      <Parametry ObjectName="ArtiklHodnotaParametru" ObjectType="List" />
+      <PreneseniDane ObjectName="PreneseniDanovePovinnosti" ObjectType="Object" ID="46811e4a-a729-4afe-b746-ec05842c7fe7" />
+      <Prislusenstvi ObjectName="ArtiklPrislusenstvi" ObjectType="List" />
+      <ProduktoveKlice ObjectName="ArtiklProduktovyKlic" ObjectType="List" />
+      <SazbyDPH ObjectName="ArtiklDPH" ObjectType="List">
+        <ArtiklDPH ObjectName="ArtiklDPH" ObjectType="Object" ID="ec850449-6358-4c61-8446-2353afc501b6">
+          <PovahaSazbyVstup_ID />
+          <PovahaSazbyVystup_ID />
+          <PovahaSazbyZvlastniRezim_ID />
+          <SazbaVstup EnumValueName="Zakladni">1</SazbaVstup>
+          <SazbaVystup EnumValueName="Zakladni">1</SazbaVystup>
+          <SazbaZvlastniRezim EnumValueName="Nulova">2</SazbaZvlastniRezim>
+          <Stat_ID />
+          <Zacatek>1753-01-01T00:00:00</Zacatek>
+        </ArtiklDPH>
+      </SazbyDPH>
+      <Serie ObjectName="ArtiklSerie" ObjectType="List" />
+      <SeznamAlternativ ObjectName="ArtiklAlternativa" ObjectType="List" />
+      <Slozeni ObjectName="ArtiklSlozeni" ObjectType="List" />
+      <StatPuvodu ObjectName="Stat" ObjectType="Object" ID="8a19e301-cad0-4f95-85cd-1c16439bd8e8" />
+      <Zavady ObjectName="ArtiklZavady" ObjectType="List" />
+    </Artikl>
+  </ArtiklList>
+</S5Data>

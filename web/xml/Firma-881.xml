@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="a28aca09-f91e-4d15-8f83-ca846088c9ca">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>02632195</ICO>
+      <Nazev>KP REVITAL s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>KP REVITAL s.r.o.</Nazev>
+          <Ulice>Pod Lesíkem 556/23</Ulice>
+          <Misto>Ostrava - Stará bělá</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>72400</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>KP REVITAL s.r.o.</Nazev>
+          <Ulice>Pod Lesíkem 556/23</Ulice>
+          <Misto>Ostrava - Stará bělá</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>72400</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>KP REVITAL s.r.o.</Nazev>
+          <Ulice>Starecká 316/8</Ulice>
+          <Misto>Ostrava - Stará bělá</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>72400</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>vyroba2@kprevital.cz</Email>
+        <Telefon1>
+          <Cislo>603152810</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="155164e1-5ae8-4e12-9f2c-a76ac925c727"/>
+        <TelefonSpojeni1 ID="37d84ed1-8697-46b5-a779-9a2384b7be2f"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="8e6309ab-087d-4eee-aca7-0f3cded05033"/>
+        <SeznamOsob>
+          <Osoba ID="8e6309ab-087d-4eee-aca7-0f3cded05033">
+            <Nazev>Martina Balharová</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

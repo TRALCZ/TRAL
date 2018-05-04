@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ArtiklList>
+    <Artikl ID="9f1cdf03-b418-4a6f-b302-9dd72d3d8545">
+      <Group ID="08d1e4c7-4023-4f00-a2a3-fc80ad83117c"/>
+      <Nazev>Interiérové dveře ALEJA 0/3 60 P olše LAK PZ CZ - TEST Yurgen</Nazev>
+      <Popis>Interiérové dveře ALEJA 0/3 60 P olše LAK PZ CZ - TEST Yurgen</Popis>
+      <Kod>0000005</Kod>
+      <CarovyKod>1234567</CarovyKod>
+      <VlastniHmotnost>25</VlastniHmotnost>
+      <DodaciLhuta>
+        <Doba>15</Doba>
+      </DodaciLhuta>
+      <Dodavatele>
+        <HlavniDodavatel/>
+        <SeznamDodavatelu>
+          <ArtiklDodavatel>
+            <Firma_ID>330bf001-da78-4fba-bea3-17619528871e</Firma_ID>
+            <NazevFirmy>Erkado Zbigniew Kozlowski</NazevFirmy>
+          </ArtiklDodavatel>
+        </SeznamDodavatelu>
+      </Dodavatele>
+    </Artikl>
+  </ArtiklList>
+</S5Data>

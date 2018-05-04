@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="7fbc30bb-c85f-40a9-b604-28a5d5704942">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>03459276</ICO>
+      <Nazev>Regius Realitní kancelář s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Regius Realitní kancelář s.r.o.</Nazev>
+          <Ulice>Štefanikova 809/1</Ulice>
+          <Misto>Nový Jičín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74101</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Regius Realitní kancelář s.r.o.</Nazev>
+          <Ulice>Štefanikova 809/1</Ulice>
+          <Misto>Nový Jičín</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74101</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Regius Realitní kancelář s.r.o.</Nazev>
+          <Ulice>Na Lani 216</Ulice>
+          <Misto>Nový Jičín - Loučka </Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>74101</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>vaclav.jaros@regiusholding.cz</Email>
+        <Telefon1>
+          <Cislo>734327890</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="f8ed2680-a192-4cfb-8df0-56a7460a48b1"/>
+        <TelefonSpojeni1 ID="69717e28-1666-4412-b03d-a6e773bb4dfa"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="25783b5f-ec5e-46c7-9839-3bda55738e9d"/>
+        <SeznamOsob>
+          <Osoba ID="25783b5f-ec5e-46c7-9839-3bda55738e9d">
+            <Nazev>Václav Jaroš</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="aa415467-8265-4091-82b0-569121a248de">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>24251470</ICO>
+      <DIC>CZ24251470</DIC>
+      <Nazev>A A Future s. r. o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>A A Future s. r. o.</Nazev>
+          <Ulice>náměstí Přátelství 1518/2</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>10200</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>A A Future s. r. o.</Nazev>
+          <Ulice>náměstí Přátelství 1518/2</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>10200</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>False</OdlisnaAdresaProvozovny>
+      </Adresy>
+      <Kontakty>
+        <Email>info@cpl.cz</Email>
+        <WWW>stv.cz</WWW>
+        <Telefon1>
+          <Cislo>1234567</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo>5555555555</Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="859bc566-a15b-4d0c-b421-4d869ac6ff92"/>
+        <WWWSpojeni ID="bad2eb73-c341-489d-944c-957a61e7c37b"/>
+        <TelefonSpojeni1 ID="5eb08322-875d-4463-a663-008a663aa17c"/>
+        <TelefonSpojeni2 ID="2e421db0-e0de-43eb-8470-9c2b1e3976fa"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="7b779176-bbcc-478d-ac61-4607eba21813"/>
+        <SeznamOsob>
+          <Osoba ID="7b779176-bbcc-478d-ac61-4607eba21813">
+            <Nazev>Ivanov Ivan Ivanyc</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="d60503f0-090e-4699-9da1-bf21cf9ea367">
+          <AdresniKlic_ID>28A472F3-A883-4B42-8B14-6D2AD9A25251</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin>
+          <FirmaCenovaHladina ID="1765542c-ab4a-48ae-9edc-ccd4c349ad40">
+            <CenovaHladina_ID>25080DAC-F77A-44A0-AD25-2C8669007FA4</CenovaHladina_ID>
+            <Poradi>1</Poradi>
+          </FirmaCenovaHladina>
+        </SeznamHladin>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

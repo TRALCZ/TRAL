@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="3c78268d-3e07-4621-b5f5-92698e59305e">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Marek Pelikán</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Marek Pelikán</Nazev>
+          <Ulice>Kyjovská 265</Ulice>
+          <Misto>Bukovany</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>69631</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Marek Pelikán</Nazev>
+          <Ulice>Kyjovská 265</Ulice>
+          <Misto>Bukovany</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>69631</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Marek Pelikán</Nazev>
+          <Ulice>Kyjovská 265</Ulice>
+          <Misto>Bukovany</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>69631</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>xpelikanmarek@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>728893891</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="00d03c58-1b9d-4d66-9d4a-c6d6c3574f57"/>
+        <TelefonSpojeni1 ID="f10e9ace-8b4c-41fc-a25c-94a1a8521072"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="15e17574-6dee-41f4-a755-da2dae8108d9"/>
+        <SeznamOsob>
+          <Osoba ID="15e17574-6dee-41f4-a755-da2dae8108d9">
+            <Nazev>Marek Pelikán</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

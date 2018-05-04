@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="61f4cfec-c33a-4d45-9ac1-cbe6e2f773bb">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Martin Polách</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Martin Polách</Nazev>
+          <Ulice>Drahanovice 254</Ulice>
+          <Misto>Drahanovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78344</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Martin Polách</Nazev>
+          <Ulice>Drahanovice 254</Ulice>
+          <Misto>Drahanovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78344</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Martin Polách</Nazev>
+          <Ulice>Drahanovice 254</Ulice>
+          <Misto>Drahanovice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>78344</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>mar.polach@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>725543021</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="6e3b5874-2c9c-49c4-808d-440888014f3c"/>
+        <TelefonSpojeni1 ID="3827df22-64fc-44fd-821d-4d7955cbd25e"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="d6d41b61-a345-4a03-a50a-e1b895fa6d4b"/>
+        <SeznamOsob>
+          <Osoba ID="d6d41b61-a345-4a03-a50a-e1b895fa6d4b">
+            <Nazev>Martin Polách</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

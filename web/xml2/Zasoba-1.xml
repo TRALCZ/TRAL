@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <ZasobaList>
+    <Zasoba ID="63d55d5a-d798-44b6-89c1-eefb7aa9d83d">
+      <Artikl_ID>4dc215d9-b9e5-4916-ad0e-8709c10ca86b</Artikl_ID>
+      <Nazev>Interiérové dveře ALEJA 0/3 60 P olše LAK BB CZ</Nazev>
+      <Kod>0000001</Kod>
+      <ZasobaPojistna>15</ZasobaPojistna>
+      <Sklad_ID ID="a8b21024-16a7-48f9-a684-0c3d0d417e22"/>
+    </Zasoba>
+  </ZasobaList>
+</S5Data>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="5a8ef201-c614-425e-995a-c72f9635c1a2">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>26822580</ICO>
+      <DIC>CZ26822580</DIC>
+      <Nazev>goNET s.r.o.</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>goNET s.r.o.</Nazev>
+          <Ulice>Úprkova 1/25</Ulice>
+          <Misto>Ostrava</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>70200</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>goNET s.r.o.</Nazev>
+          <Ulice>Úprkova 1/25</Ulice>
+          <Misto>Ostrava</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>70200</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>goNET s.r.o.</Nazev>
+          <Ulice>Úprkova 1/25</Ulice>
+          <Misto>Ostrava</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>70200</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>gorecki@gonet.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>608885977</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="10e224fd-2175-4532-b7d4-488f4f3e3d1e"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="90010e9b-79b4-4de3-b0c6-7a407f35fa72"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="88fab693-b651-4167-9ba6-4c1777cd49be"/>
+        <SeznamOsob>
+          <Osoba ID="88fab693-b651-4167-9ba6-4c1777cd49be">
+            <Nazev>Pavel Gorecki </Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice>
+        <FirmaAdresniKlic ID="617732b8-1154-45b6-b833-6bb9eda96e83" Delete="1"/>
+        <FirmaAdresniKlic ID="28d5eecf-a6ea-41be-b1bd-82ed50de39f6">
+          <AdresniKlic_ID>823B82D2-B819-44DE-BED3-51D2F8D45D5F</AdresniKlic_ID>
+        </FirmaAdresniKlic>
+      </AdresniKlice>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="0f897b3d-6b66-4b3d-a1cb-d4bdf4261701">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jana Adámková</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jana Adámková</Nazev>
+          <Ulice>Janov nad Nisou 491</Ulice>
+          <Misto>Janov nad Nisou</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>46811</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jana Adámková</Nazev>
+          <Ulice>Janov nad Nisou 491</Ulice>
+          <Misto>Janov nad Nisou</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>46811</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jana Adámková</Nazev>
+          <Ulice>Janov nad Nisou 491</Ulice>
+          <Misto>Janov nad Nisou</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>46811</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>adamkova.j@email.cz</Email>
+        <Telefon1>
+          <Cislo>725708730</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="cde2b2d5-343e-4d42-ad66-a2bf35244b4a"/>
+        <TelefonSpojeni1 ID="3b1c0656-3ec7-4744-987e-830aad89c59d"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="890495af-632f-45a5-a373-2ca7b2302f32"/>
+        <SeznamOsob>
+          <Osoba ID="890495af-632f-45a5-a373-2ca7b2302f32">
+            <Nazev>Jana Adámková</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

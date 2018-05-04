@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="ddc01c44-0688-4d20-a34b-5a1d895431d4">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Karel Dezort</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Karel Dezort</Nazev>
+          <Ulice>Strašice 383</Ulice>
+          <Misto>Strašice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33845</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Karel Dezort</Nazev>
+          <Ulice>Strašice 383</Ulice>
+          <Misto>Strašice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33845</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Karel Dezort</Nazev>
+          <Ulice>Strašice 383</Ulice>
+          <Misto>Strašice</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>33845</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>k.dezortk@tiscali.cz</Email>
+        <Telefon1>
+          <Cislo>731222900</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="c9f2ac66-db84-4f4f-9c10-3e1f0c050be1"/>
+        <TelefonSpojeni1 ID="c8cdff21-84d0-47c7-9933-5e46b02ad6c3"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="a3330baf-4aa7-41b5-a3c8-5a0693c857c2"/>
+        <SeznamOsob>
+          <Osoba ID="a3330baf-4aa7-41b5-a3c8-5a0693c857c2">
+            <Nazev>Karel Dezort</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

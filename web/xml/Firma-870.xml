@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="4d5ba7d5-e965-42f8-b59f-15b0c193b548">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Jana Dušková </Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Jana Dušková </Nazev>
+          <Ulice>Údolní 568</Ulice>
+          <Misto>Nejdek 2</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>36222</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Jana Dušková </Nazev>
+          <Ulice>Údolní 568</Ulice>
+          <Misto>Nejdek 2</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>36222</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jana Dušková </Nazev>
+          <Ulice>Údolní 568</Ulice>
+          <Misto>Nejdek 2</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>36222</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>janasantrochova@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>776712003</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="9c363c44-9ae1-4c2e-bfb1-c30fc300e1a5"/>
+        <TelefonSpojeni1 ID="60eb5d2b-3a9e-4b5f-8a11-020dcb2745be"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="da133262-f9e7-4b77-b2a1-215313c506ec"/>
+        <SeznamOsob>
+          <Osoba ID="da133262-f9e7-4b77-b2a1-215313c506ec">
+            <Nazev>Jana Dušková </Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

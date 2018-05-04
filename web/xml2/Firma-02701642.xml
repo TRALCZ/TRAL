@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="8a919228-76a3-442e-905b-9abf110d80fb">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO>02701642</ICO>
+      <DIC>CZ683460958</DIC>
+      <Nazev>PCH PRO LIMITED, odštěpný závod</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>PCH PRO LIMITED, odštěpný závod</Nazev>
+          <Ulice>Rybná 716/24</Ulice>
+          <Misto>Praha</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>11000</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>PCH PRO LIMITED, odštěpný závod</Nazev>
+          <Ulice>Rybná 716/24</Ulice>
+          <Misto>Praha 1</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>11000</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>Jiří Svoboda</Nazev>
+          <Ulice>Hilmarova 1</Ulice>
+          <Misto>Praha 5 - Hlubočepy</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>15200</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>tadeli@seznam.cz</Email>
+        <WWW></WWW>
+        <Telefon1>
+          <Cislo>777720251</Cislo>
+        </Telefon1>
+        <Telefon2>
+          <Cislo></Cislo>
+        </Telefon2>
+        <EmailSpojeni ID="3dfd8b70-764b-4a7d-ada4-6551f4561f73"/>
+        <WWWSpojeni ID=""/>
+        <TelefonSpojeni1 ID="98dbc057-eb90-4109-986b-75dc37378183"/>
+        <TelefonSpojeni2 ID=""/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="945f6a67-efd1-4788-8535-5c346c0c08ff"/>
+        <SeznamOsob>
+          <Osoba ID="945f6a67-efd1-4788-8535-5c346c0c08ff">
+            <Nazev>Jiří Svoboda</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+      <Poznamka></Poznamka>
+      <Pohledavky>
+        <SplatnostPohledavek>0</SplatnostPohledavek>
+        <VlastniSplatnostPohledavek>False</VlastniSplatnostPohledavek>
+      </Pohledavky>
+      <AdresniKlice/>
+      <ObchodniPodminky>
+        <SeznamHladin/>
+        <SeznamCeniku/>
+      </ObchodniPodminky>
+    </Firma>
+  </FirmaList>
+</S5Data>

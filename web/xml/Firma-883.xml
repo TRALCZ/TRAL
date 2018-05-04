@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<S5Data>
+  <FirmaList>
+    <Firma ID="e804a52c-f23a-490f-8dac-c25c411fd081">
+      <Group ID="A9170106-35DE-4968-AD0C-0A6E8129E174"/>
+      <ICO></ICO>
+      <Nazev>Hana Kristková</Nazev>
+      <Adresy>
+        <ObchodniAdresa>
+          <Nazev>Hana Kristková</Nazev>
+          <Ulice>Okružní 95</Ulice>
+          <Misto>Prostějov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>79601</KodPsc>
+        </ObchodniAdresa>
+        <OdlisnaFakturacniAdresa>True</OdlisnaFakturacniAdresa>
+        <FakturacniAdresa>
+          <Nazev>Hana Kristková</Nazev>
+          <Ulice>Okružní 95</Ulice>
+          <Misto>Prostějov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>79601</KodPsc>
+        </FakturacniAdresa>
+        <OdlisnaAdresaProvozovny>True</OdlisnaAdresaProvozovny>
+        <Provozovna>
+          <Nazev>p.Baslík 605327231</Nazev>
+          <Ulice>Brněnská 11</Ulice>
+          <Misto>Prostějov</Misto>
+          <NazevStatu>Česká republika</NazevStatu>
+          <KodPsc>79601</KodPsc>
+        </Provozovna>
+      </Adresy>
+      <Kontakty>
+        <Email>hancak@seznam.cz</Email>
+        <Telefon1>
+          <Cislo>773780979</Cislo>
+        </Telefon1>
+        <EmailSpojeni ID="57285804-80c8-4d43-92be-ba2dd90011a6"/>
+        <TelefonSpojeni1 ID="f08cbab2-9898-4eae-bc5c-8ae4fb917fbf"/>
+      </Kontakty>
+      <Osoby>
+        <HlavniOsoba ID="b14750ae-4dd1-4067-bba6-d019146bbdf3"/>
+        <SeznamOsob>
+          <Osoba ID="b14750ae-4dd1-4067-bba6-d019146bbdf3">
+            <Nazev>Hana Kristková</Nazev>
+            <CisloOsoby>1</CisloOsoby>
+          </Osoba>
+        </SeznamOsob>
+      </Osoby>
+    </Firma>
+  </FirmaList>
+</S5Data>

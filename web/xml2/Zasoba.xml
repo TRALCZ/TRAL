@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<S5Data>
+  <ZasobaList>
+    <Zasoba ID="22cc509e-1708-4c46-b2f4-4afe4c097d0a">
+      <Group ID="fb3a067f-8414-48e3-9530-070593eed86c" Kod="0820WC" />
+      <AktualniStav_ID>a78b1e44-1683-4848-8f89-b01260037b79</AktualniStav_ID>
+      <Artikl_ID>f224428f-5957-43c3-bc90-57ad3cbf8da5</Artikl_ID>
+      <CanGetDataFromGroup>False</CanGetDataFromGroup>
+      <DruhArtiklu_ID />
+      <DruhKonta_ID>7ab688a5-e5fa-4650-b9c7-99d715e61745</DruhKonta_ID>
+      <HistorickaCena>0.0000</HistorickaCena>
+      <Jednotka_ID />
+      <Kod>24709</Kod>
+      <Nazev>DVEŘE TOLEDO 5/5 AKÁCIE CPL 70 P WC CZ</Nazev>
+      <Objednano>0.0000</Objednano>
+      <PosledniNakup>1753-01-01T00:00:00</PosledniNakup>
+      <PosledniProdej>1753-01-01T00:00:00</PosledniProdej>
+      <RadaObdobi_ID>8c126f9a-ff68-433f-a96f-74873e12bf19</RadaObdobi_ID>
+      <Rezervovano>0.0000</Rezervovano>
+      <Sklad_ID>f903c2fe-a5f7-4816-936a-e08bf0977c0f</Sklad_ID>
+      <SkladovaPozice_ID />
+      <Source_ID>f224428f-5957-43c3-bc90-57ad3cbf8da5</Source_ID>
+      <TypKonta EnumValueName="Aktivni">0</TypKonta>
+      <TypZmenyPohybu EnumValueName="Prepis">0</TypZmenyPohybu>
+      <ZasobaObratova>0.0000</ZasobaObratova>
+      <ZasobaPojistna>0.0000</ZasobaPojistna>
+      <NastaveniZasoby>
+        <NastaveniNedostatecneMnozstviKVyrizeni EnumValueName="PonechatBezeZmeny">0</NastaveniNedostatecneMnozstviKVyrizeni>
+        <PoklesPodPojistnouZasobu EnumValueName="Nekontrolovat">0</PoklesPodPojistnouZasobu>
+        <PrekroceniObratoveZasoby EnumValueName="Nekontrolovat">0</PrekroceniObratoveZasoby>
+        <PridaniPolozkySDetailem EnumValueName="StandardniChovani">0</PridaniPolozkySDetailem>
+        <VyberDodavky EnumValueName="NejnizsiDatum">0</VyberDodavky>
+        <VydejDoMinusu EnumValueName="Nepovolit">2</VydejDoMinusu>
+        <VydejMnozstviKDispozici EnumValueName="Nepovolit">2</VydejMnozstviKDispozici>
+        <ZpusobOcenovani EnumValueName="FIFO">0</ZpusobOcenovani>
+      </NastaveniZasoby>
+      <AktualniStav ObjectName="StavZasoby" ObjectType="Object" ID="a78b1e44-1683-4848-8f89-b01260037b79" />
+      <Artikl ObjectName="Artikl" ObjectType="Object" ID="f224428f-5957-43c3-bc90-57ad3cbf8da5">
+        <Group ID="5d5e8990-0943-4b65-9893-62d7c0f91ce8" Kod="0820WC" />
+      </Artikl>
+      <Cinnosti ObjectName="ArtiklCinnost" ObjectType="List" />
+      <Detaily ObjectName="ZasobaDetail" ObjectType="List" />
+      <DruhKonta ObjectName="DruhKonta" ObjectType="Object" ID="7ab688a5-e5fa-4650-b9c7-99d715e61745" />
+      <Pohyby ObjectName="PohybZasoby" ObjectType="List" />
+      <RadaObdobi ObjectName="RadaObdobi" ObjectType="Object" ID="8c126f9a-ff68-433f-a96f-74873e12bf19" />
+      <Sklad ObjectName="Sklad" ObjectType="Object" ID="f903c2fe-a5f7-4816-936a-e08bf0977c0f" />
+      <Stavy ObjectName="StavZasoby" ObjectType="List">
+        <StavZasoby ObjectName="StavZasoby" ObjectType="Object" ID="276009e1-8529-46da-9050-535938bf40b8">
+          <Konto_ID>22cc509e-1708-4c46-b2f4-4afe4c097d0a</Konto_ID>
+          <Obdobi_ID>deaf1c99-832a-4f5f-9087-5ae3787a73b3</Obdobi_ID>
+          <Odchylka>0.00</Odchylka>
+          <Soucet>0.00</Soucet>
+          <UzaverkaObdobi_ID />
+          <Obrat>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Obrat>
+          <Pocatek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>0.00</PocetJednotek>
+          </Pocatek>
+          <Prirustek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Prirustek>
+          <Ubytek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Ubytek>
+          <Zustatek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Zustatek>
+          <Obdobi ObjectName="Obdobi" ObjectType="Object" ID="deaf1c99-832a-4f5f-9087-5ae3787a73b3" />
+        </StavZasoby>
+        <StavZasoby ObjectName="StavZasoby" ObjectType="Object" ID="a78b1e44-1683-4848-8f89-b01260037b79">
+          <Konto_ID>22cc509e-1708-4c46-b2f4-4afe4c097d0a</Konto_ID>
+          <Obdobi_ID>8194e133-c6c1-42b9-bbac-c46dc30f2283</Obdobi_ID>
+          <Odchylka>0.00</Odchylka>
+          <Soucet>0.00</Soucet>
+          <UzaverkaObdobi_ID />
+          <Obrat>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Obrat>
+          <Pocatek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Pocatek>
+          <Prirustek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Prirustek>
+          <Ubytek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Ubytek>
+          <Zustatek>
+            <CelkovaCena>0.00</CelkovaCena>
+            <JednotkaCena>0.0000</JednotkaCena>
+            <Mnozstvi>0.00</Mnozstvi>
+            <PocetJednotek>1.00</PocetJednotek>
+          </Zustatek>
+          <Obdobi ObjectName="Obdobi" ObjectType="Object" ID="8194e133-c6c1-42b9-bbac-c46dc30f2283" />
+        </StavZasoby>
+      </Stavy>
+    </Zasoba>
+  </ZasobaList>
+</S5Data>
